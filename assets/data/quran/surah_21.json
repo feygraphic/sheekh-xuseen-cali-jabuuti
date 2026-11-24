@@ -1,0 +1,902 @@
+{
+  "surah_number": 21,
+  "ayahs_count": 112,
+  "ayahs": [
+    {
+      "id": 2484,
+      "surah": 21,
+      "ayah": 1,
+      "arabic_text": "ٱقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِي غَفۡلَةٖ مُّعۡرِضُونَ",
+      "translation": "(Waqtiga) xisaabintooda (Qiyaamo) baa ku soo dhow dadka halka ay dhoohnaan la sii jeedaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2485,
+      "surah": 21,
+      "ayah": 2,
+      "arabic_text": "مَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ يَلۡعَبُونَ",
+      "translation": "Ma jiro Xus (Waxyi) uga yimaada xagga Rabbbigood, waxayse dhegaystaan iyagoo iska cayaaraya.",
+      "footnotes": ""
+    },
+    {
+      "id": 2486,
+      "surah": 21,
+      "ayah": 3,
+      "arabic_text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
+      "translation": "Qalbiyadoodu shuqloon tahay. Kuwaa fala dulmiga (shirkiga iyo macaasida) waxay qariyaan faqooda (iyagoo leh): Kani (Muxammad) ma wax aan ahayn baa qof idinkoo kale ah? Ma waxaad aqabaleysaan sixir [1] idinkoo arka?",
+      "footnotes": "[1] Sixir waxay ku sheegayaan halkan waa Aayadaha Qur’aanka, Inkastoo ay arkeen calaamooyin iyo mucjisooyin dhab ah."
+    },
+    {
+      "id": 2487,
+      "surah": 21,
+      "ayah": 4,
+      "arabic_text": "قَالَ رَبِّي يَعۡلَمُ ٱلۡقَوۡلَ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "translation": "Wuxuu (Nabigu s.c.w) yidhi: “Rabbigay baa ogsoon qowl (kasta oo lagaga hadlo) samooyinka dhexdooda iyo arlada. Waana wax kasta Maqlaha, wax kasta Ogsoonaha ah.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2488,
+      "surah": 21,
+      "ayah": 5,
+      "arabic_text": "بَلۡ قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمِۭ بَلِ ٱفۡتَرَىٰهُ بَلۡ هُوَ شَاعِرٞ فَلۡيَأۡتِنَا بِـَٔايَةٖ كَمَآ أُرۡسِلَ ٱلۡأَوَّلُونَ",
+      "translation": "Waxayse yidhaahdeen: “(Waxyigu wax kale maahee) waa hawaawi hadal hurdo! mayee isagaa hal abuuray - mayee waa gabyaa! Ee ha noo keeno mucjiso la mid ah (mucjisidihii) lala soo diray (anbiyadii) hore.",
+      "footnotes": ""
+    },
+    {
+      "id": 2489,
+      "surah": 21,
+      "ayah": 6,
+      "arabic_text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ",
+      "translation": "Ma ayna rumeynin hortaa magaalo aan halaag la doonnay (inkastoy arkeen calaamooyin iyo mucjisooyin) ee ma iyagaa rumeyn?.",
+      "footnotes": ""
+    },
+    {
+      "id": 2490,
+      "surah": 21,
+      "ayah": 7,
+      "arabic_text": "وَمَآ أَرۡسَلۡنَا قَبۡلَكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
+      "translation": "Ma aanu soo dirin hortaa adiga (Nabi Muxammadow) waxaan aheyn rag aan u waxyoonnay (Dhambaalka), ee weydiiya ehlu Kitaabka haddaydaan ogeyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 2491,
+      "surah": 21,
+      "ayah": 8,
+      "arabic_text": "وَمَا جَعَلۡنَٰهُمۡ جَسَدٗا لَّا يَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُواْ خَٰلِدِينَ",
+      "translation": "Uma aan yeelin (anbiyada) jirar aan cunin cunto [1] 'sida malaa’igta', mana aheyn kuwo aan dhiman oo ku waadha (arlada).",
+      "footnotes": "[1] Sida malaa’igta, waxayse ahaayeen aadmi leh tilmaamaha dadka."
+    },
+    {
+      "id": 2492,
+      "surah": 21,
+      "ayah": 9,
+      "arabic_text": "ثُمَّ صَدَقۡنَٰهُمُ ٱلۡوَعۡدَ فَأَنجَيۡنَٰهُمۡ وَمَن نَّشَآءُ وَأَهۡلَكۡنَا ٱلۡمُسۡرِفِينَ",
+      "translation": "Markaas, Waanu u rumaynay ballankaan u qaadnay waana badbaadinnay iyagii iyo ciddaan doonno, waxaana hallignay xad gudbayaashii.",
+      "footnotes": ""
+    },
+    {
+      "id": 2493,
+      "surah": 21,
+      "ayah": 10,
+      "arabic_text": "لَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ كِتَٰبٗا فِيهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "Waxaan idiin soo dejinnay (dadow) Kitaab (Qur’aan) idiinku sugan [1] xuskiinna (iyo sharaftiinna) ee miyeydaan garasho lahayn?.",
+      "footnotes": "[1] Kitaabka waa Qur’aanka, xuskiinna waxaa loola jeedaa la idinku sharfay ama la idinkula hadlay. Macno kale waa idiinku sugan waano."
+    },
+    {
+      "id": 2494,
+      "surah": 21,
+      "ayah": 11,
+      "arabic_text": "وَكَمۡ قَصَمۡنَا مِن قَرۡيَةٖ كَانَتۡ ظَالِمَةٗ وَأَنشَأۡنَا بَعۡدَهَا قَوۡمًا ءَاخَرِينَ",
+      "translation": "Badanaa intaan halaagnay magaalo [1] ay dadkeedu faleen dulmi (shirki iyo macaasi) oo aan soo saarnay iyaga kaddib qolo kale.",
+      "footnotes": "[1] Macnaha waa dadkeedu ay ku adkeysteen xumaan falidda."
+    },
+    {
+      "id": 2495,
+      "surah": 21,
+      "ayah": 12,
+      "arabic_text": "فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ",
+      "translation": "Markay dareemeen cadaabkayagii, mise waxay billaabeen inay ka cararaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2496,
+      "surah": 21,
+      "ayah": 13,
+      "arabic_text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
+      "translation": "Ha cararina (haatan) ee dib ugu soo laabta wixii la idiinku raaxeeyey iyo guryihiinna, si wax la idiin weydiiyo [1].",
+      "footnotes": "[1] Waxa idinku dhacay. Waxaa hadalkan loo yidhi ku digasho ahaan."
+    },
+    {
+      "id": 2497,
+      "surah": 21,
+      "ayah": 14,
+      "arabic_text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "Waxay yidhaahdeen: Hooggeenee! Waxaanu nahay daalimiin.",
+      "footnotes": ""
+    },
+    {
+      "id": 2498,
+      "surah": 21,
+      "ayah": 15,
+      "arabic_text": "فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ",
+      "translation": "Ma ay deyn calaalcalkoodaas ilaa aan ka yeelnay wax la shafay oo baqtiya.",
+      "footnotes": ""
+    },
+    {
+      "id": 2499,
+      "surah": 21,
+      "ayah": 16,
+      "arabic_text": "وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+      "translation": "Uma aan abuurinna samada iyo arlada iyo waxa u dhexeeya dheel.",
+      "footnotes": ""
+    },
+    {
+      "id": 2500,
+      "surah": 21,
+      "ayah": 17,
+      "arabic_text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+      "translation": "Haddaan rabno inaan yeelanno wax aan isku maaweelinno [1], waxaan ka yeelan lahayn waxa Agtannada ah, haddaan sidaas falayno.",
+      "footnotes": "[1] Sida xaas ama carruur."
+    },
+    {
+      "id": 2501,
+      "surah": 21,
+      "ayah": 18,
+      "arabic_text": "بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ",
+      "translation": "Waxaanse Xaqa ku gannaa baadilka, markaas buu madaxa kala jabiyaa, mise durba wuu baabba’aa. Hoog baadna leedihiin beentaasi aad naga sheegtaan darteed [1].",
+      "footnotes": "[1] waa odhaahdooda baadilka ah in Alle leeyahay xaas iyo ilmo."
+    },
+    {
+      "id": 2502,
+      "surah": 21,
+      "ayah": 19,
+      "arabic_text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَلَا يَسۡتَحۡسِرُونَ",
+      "translation": "Alle baa leh wax kasta oo ku sugan samooyinka iyo arlada; kuwa (Alle) agtiisa ahna ee u dhow (malaa’igta) iskama wey- neeyaan cibaadadiisa, kamana daalaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2503,
+      "surah": 21,
+      "ayah": 20,
+      "arabic_text": "يُسَبِّحُونَ ٱلَّيۡلَ وَٱلنَّهَارَ لَا يَفۡتُرُونَ",
+      "translation": "Waxay xurmo weyneeyaan oo hufaan habeen iyo maalinba, kamana noogaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2504,
+      "surah": 21,
+      "ayah": 21,
+      "arabic_text": "أَمِ ٱتَّخَذُوٓاْ ءَالِهَةٗ مِّنَ ٱلۡأَرۡضِ هُمۡ يُنشِرُونَ",
+      "translation": "Mise waxay yeesheen si ay u caabudaan ilaahyo dhulka jooga oo wax soo nooleeya?",
+      "footnotes": ""
+    },
+    {
+      "id": 2505,
+      "surah": 21,
+      "ayah": 22,
+      "arabic_text": "لَوۡ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَٰنَ ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
+      "translation": "Hadday jiri lahaayeen dhexdooda (cirarka iyo dhulka) ilaahyo aan ahayn Alle, way fasaadi lahaayeen. Wuu ka hufan yahay Alle Rabbiga Carshiga Weyn leh oo ka Sarreeyaa waxay ku tilmaami.",
+      "footnotes": ""
+    },
+    {
+      "id": 2506,
+      "surah": 21,
+      "ayah": 23,
+      "arabic_text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ",
+      "translation": "(Alle) lama weydiiyo wuxuu Falo, iyagase (dadka) waa la weydiin.",
+      "footnotes": ""
+    },
+    {
+      "id": 2507,
+      "surah": 21,
+      "ayah": 24,
+      "arabic_text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
+      "translation": "Mise waxay yeesheen Isaga sokadi ilaahyo (kale) ay la barbar caabudaan? Dheh: “Keena Xujadiinna. Kani waa Xuska kuwa ila jooga iyo Xuska kuwii iga horreeyay [1]. Badankooduse ma gartaan Xaqa, marka way ka sii jeestaan.",
+      "footnotes": "[1] Dhammaan Rusushii hore waxay dadku ugu yeereen Towxiidka - caabudaadda Alle Keliya aan cid kale lala wadaajin cibaadada."
+    },
+    {
+      "id": 2508,
+      "surah": 21,
+      "ayah": 25,
+      "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِيٓ إِلَيۡهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدُونِ",
+      "translation": "Ma aanu soo dirin hortaa Rasuulna aan u waxyoonin (Annagoo leh), \"Ma jiro Ilaah (Xaq ah oo) aan Aniga (Allaah) ahayn, ee i caabuda (Anigoo keliya).”",
+      "footnotes": ""
+    },
+    {
+      "id": 2509,
+      "surah": 21,
+      "ayah": 26,
+      "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+      "translation": "Waxay (gaaladu) yidhaahdeen: Raxmaanku wuxuu yeeshay ilmo. Subxaanah! Wuu ka hufan yahay, waase addoomo (malaa’igta) la sharfay [1].",
+      "footnotes": "[1] Kuwaa ay ku andoocadaan inay yihiin ilaah sida ruuxul qudus, ama ilmahii Alle sida Ciise, malaa’igta, iwm waa addoommo la sharfay."
+    },
+    {
+      "id": 2510,
+      "surah": 21,
+      "ayah": 27,
+      "arabic_text": "لَا يَسۡبِقُونَهُۥ بِٱلۡقَوۡلِ وَهُم بِأَمۡرِهِۦ يَعۡمَلُونَ",
+      "translation": "Kagama hormaraan hadal, iyaguna amarkiisa uun bay ku camal falaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2511,
+      "surah": 21,
+      "ayah": 28,
+      "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يَشۡفَعُونَ إِلَّا لِمَنِ ٱرۡتَضَىٰ وَهُم مِّنۡ خَشۡيَتِهِۦ مُشۡفِقُونَ",
+      "translation": "Wuxuu og yahay waxa hortooda ah iyo waxa gadaashooda ah, umana shafeecaan mid uu isagu oggolaado maahee iyaguna cabsidiisay la digtoon yihiin oo baqaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2512,
+      "surah": 21,
+      "ayah": 29,
+      "arabic_text": "۞ وَمَن يَقُلۡ مِنۡهُمۡ إِنِّيٓ إِلَٰهٞ مِّن دُونِهِۦ فَذَٰلِكَ نَجۡزِيهِ جَهَنَّمَۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+      "translation": "Mid kastoo ka mid ah (uunka Alle sida Ibliis ama qeyrki) ee yidhaahda: “Waxaan anigu ahay Ilaah la jirkiis Isaga,” kaas oo kale waxaan ku abaal marin Jahannama. Sidaas oo kale baan ku abaal marinnaa daalimiinta.",
+      "footnotes": ""
+    },
+    {
+      "id": 2513,
+      "surah": 21,
+      "ayah": 30,
+      "arabic_text": "أَوَلَمۡ يَرَ ٱلَّذِينَ كَفَرُوٓاْ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ كَانَتَا رَتۡقٗا فَفَتَقۡنَٰهُمَاۖ وَجَعَلۡنَا مِنَ ٱلۡمَآءِ كُلَّ شَيۡءٍ حَيٍّۚ أَفَلَا يُؤۡمِنُونَ",
+      "translation": "Miyaanay kuwa gaaloobay arag in samooyinka iyo arladu ay ahaayeen mid isku dheggan oo aan kala bixinnay, Waxaana ka abuurnay biyo wax kasta oo nool. Ee miyaanay rumayneyn [1].",
+      "footnotes": "[1] Halka ay dalbi lahaayeen si gaalnimo iyo jeesjees leh in loo soo dedejiyo oo la tuso Cadaabka."
+    },
+    {
+      "id": 2514,
+      "surah": 21,
+      "ayah": 31,
+      "arabic_text": "وَجَعَلۡنَا فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِهِمۡ وَجَعَلۡنَا فِيهَا فِجَاجٗا سُبُلٗا لَّعَلَّهُمۡ يَهۡتَدُونَ",
+      "translation": "Waxaanu yeellay buuro adag dhulka gudahiisa si aanay ula dhaqdhaqaaqin, waxaana yeellay dhexdeeda waddooyin ballaaran oo ay ku toosaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2515,
+      "surah": 21,
+      "ayah": 32,
+      "arabic_text": "وَجَعَلۡنَا ٱلسَّمَآءَ سَقۡفٗا مَّحۡفُوظٗاۖ وَهُمۡ عَنۡ ءَايَٰتِهَا مُعۡرِضُونَ",
+      "translation": "Waxaanu ka yeelnay samada saqaf ilaashan, iyaguna calaamadaheeda way ka jeesadaan .",
+      "footnotes": ""
+    },
+    {
+      "id": 2516,
+      "surah": 21,
+      "ayah": 33,
+      "arabic_text": "وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
+      "translation": "(Alle) waa Kan Abuuray habeenka iyo maalinta iyo qorraxda iyo dayaxa, dhammaan (meertooyinka) ay si dhakhso badan ugu socdaan garangartooda.",
+      "footnotes": ""
+    },
+    {
+      "id": 2517,
+      "surah": 21,
+      "ayah": 34,
+      "arabic_text": "وَمَا جَعَلۡنَا لِبَشَرٖ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِيْن مِّتَّ فَهُمُ ٱلۡخَٰلِدُونَ",
+      "translation": "Kama aanu yeelin qofna kaa horreeyey (Nabiyow) mid waadha. Ee haddaad adigu dhimato ma iyagaa waadhi?.",
+      "footnotes": ""
+    },
+    {
+      "id": 2518,
+      "surah": 21,
+      "ayah": 35,
+      "arabic_text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
+      "translation": "Naf walbaa waa tii dhadhamisa geeri, waxaanu idinku imtixaani shar iyo khayrba kala saar darteed, Xaggayagaana la idiin soo celin.",
+      "footnotes": ""
+    },
+    {
+      "id": 2519,
+      "surah": 21,
+      "ayah": 36,
+      "arabic_text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
+      "translation": "Markay ku arkaan kuwa gaaloobay, kaama dhigtaan waxaan ahayn jeesjees (waxayna yidhaahdaan):” Ma kan baa kan wax ka sheega ilaahyadiinna?” Halka iyagu ay ku gaaloobaan xusidda Raxmaanka.",
+      "footnotes": ""
+    },
+    {
+      "id": 2520,
+      "surah": 21,
+      "ayah": 37,
+      "arabic_text": "خُلِقَ ٱلۡإِنسَٰنُ مِنۡ عَجَلٖۚ سَأُوْرِيكُمۡ ءَايَٰتِي فَلَا تَسۡتَعۡجِلُونِ",
+      "translation": "Aadmigu waxaa 'ku jira' uu ka abuuran yahay degdegsanaan, waxaan idin tusi calaamooyinkayga ee ha iga dalbina inaan idiin soo dedejiyo.",
+      "footnotes": ""
+    },
+    {
+      "id": 2521,
+      "surah": 21,
+      "ayah": 38,
+      "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "Waxay odhan: Waa goorma gooddigani (cadaabka) haddaad run sheegaysaan?”",
+      "footnotes": ""
+    },
+    {
+      "id": 2522,
+      "surah": 21,
+      "ayah": 39,
+      "arabic_text": "لَوۡ يَعۡلَمُ ٱلَّذِينَ كَفَرُواْ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا هُمۡ يُنصَرُونَ",
+      "translation": "Hadday kuwa gaalooba ogaan lahaayeen markaan laga celinayn wejiyadooda Naarta iyo dhabarradoodaba oo aan loo gargaareyn (ma degdegsadeen Cadaabka).",
+      "footnotes": ""
+    },
+    {
+      "id": 2523,
+      "surah": 21,
+      "ayah": 40,
+      "arabic_text": "بَلۡ تَأۡتِيهِم بَغۡتَةٗ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا وَلَا هُمۡ يُنظَرُونَ",
+      "translation": "Waxayse ugu iman Saacadda Qiyaame kedis, way jahawareerin, ma karayaan celinteeda, lamana siiyo fursad (tawbad keen ama cudur daarasho).",
+      "footnotes": ""
+    },
+    {
+      "id": 2524,
+      "surah": 21,
+      "ayah": 41,
+      "arabic_text": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُواْ مِنۡهُم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "translation": "Waxaa lagu digtay Rusul (badan) oo kaa horreeyey, markaasaa waxaa ku dhacay kuwii ku jeesjeesay (oo gaalada ahaa) wixii (cadaabka) ay dheel dheesha u heysteen.",
+      "footnotes": ""
+    },
+    {
+      "id": 2525,
+      "surah": 21,
+      "ayah": 42,
+      "arabic_text": "قُلۡ مَن يَكۡلَؤُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ مِنَ ٱلرَّحۡمَٰنِۚ بَلۡ هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ",
+      "translation": "Dheh: “Yaa idinka ilaalin kara habeen iyo maalinba (Cadaabka) Naxariistaha (Allaah)? Waxayse iyagu ka jeesadaan xusidda Rabbigood.",
+      "footnotes": ""
+    },
+    {
+      "id": 2526,
+      "surah": 21,
+      "ayah": 43,
+      "arabic_text": "أَمۡ لَهُمۡ ءَالِهَةٞ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا يَسۡتَطِيعُونَ نَصۡرَ أَنفُسِهِمۡ وَلَا هُم مِّنَّا يُصۡحَبُونَ",
+      "translation": "Mise ma waxay leeyihiin ilaahyo ka celin kara Ciqaabkayaga? Ma leh awood ay ugu gargaaraan nafahooda, mana ahaan doonaan kuwo nalaga magan geliyo.",
+      "footnotes": ""
+    },
+    {
+      "id": 2527,
+      "surah": 21,
+      "ayah": 44,
+      "arabic_text": "بَلۡ مَتَّعۡنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ طَالَ عَلَيۡهِمُ ٱلۡعُمُرُۗ أَفَلَا يَرَوۡنَ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَآۚ أَفَهُمُ ٱلۡغَٰلِبُونَ",
+      "translation": "Mayee, waxaan u raaxaynay kuwani iyo aabbayaashoodba jeer uu la dheeraaday cimriga 'markaasay wax is bideen' [1]. Miyaanay arag inaan ku nimaanno arlada innagoo ka soo nusqaamin cirifyadiisa [2]? Ee ma iyagaa adag?",
+      "footnotes": "[1] Eeg sharaxa aan ku xusnay Suuradda 13: Aayadda 41.\n[2] Waa tilmaan guusha iyo fiditaanka Islaamka."
+    },
+    {
+      "id": 2528,
+      "surah": 21,
+      "ayah": 45,
+      "arabic_text": "قُلۡ إِنَّمَآ أُنذِرُكُم بِٱلۡوَحۡيِۚ وَلَا يَسۡمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "translation": "Dheh waxaan uun idiinku digi Waxyiga (ka yimid Alle). Kuwase dhegaha li’i ma ay maqlaan dhawaaqa marka loo digi.",
+      "footnotes": ""
+    },
+    {
+      "id": 2529,
+      "surah": 21,
+      "ayah": 46,
+      "arabic_text": "وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "Hadduu taabto (kuwa xaqa beeniya) wax yar oo ka mid ah cadaabka Rabbigaa, waxay odhan: Hooggeennee! Waxaanu nahay daalimiin (gar ma qaatayaal).",
+      "footnotes": ""
+    },
+    {
+      "id": 2530,
+      "surah": 21,
+      "ayah": 47,
+      "arabic_text": "وَنَضَعُ ٱلۡمَوَٰزِينَ ٱلۡقِسۡطَ لِيَوۡمِ ٱلۡقِيَٰمَةِ فَلَا تُظۡلَمُ نَفۡسٞ شَيۡـٔٗاۖ وَإِن كَانَ مِثۡقَالَ حَبَّةٖ مِّنۡ خَرۡدَلٍ أَتَيۡنَا بِهَاۗ وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "translation": "Waxaanu dhigi miisaan caadil ah Maalinta Qiyaamaha, lagamana dulmiyo nafna waxba, haba ahaado wax le’eg iniinta sisinta [1] waanu keeni. Annagaana ku filan Xisaabiye ahaan.",
+      "footnotes": "[1] Ama wax ka yar ama wax ka weyn."
+    },
+    {
+      "id": 2531,
+      "surah": 21,
+      "ayah": 48,
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
+      "translation": "Waxaanu dhab ahaan siinnay Muuse iyo Haaruun Furqaanka [1], iyo iftiin iyo waano [2] ay leeyihiin kuwa iska jira (xumaha ee dhowra Amarrada Alle).",
+      "footnotes": "[1] Kala sooce samaanta iyo xumaanta.\n[2] Kuwani waa seddex tilmaamood oo lagu sifeeyey isla Towraadda."
+    },
+    {
+      "id": 2532,
+      "surah": 21,
+      "ayah": 49,
+      "arabic_text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
+      "translation": "Kuwa ka baqa Rabbigood sir 'iyo saaqba' [1], iyagoo Saacadda (Qiyaame) ka cabsan.",
+      "footnotes": "[1] Waxaa loola jeedaa Iyagoo aan arag ama iyagoo keli ah aan cidna u jeedin."
+    },
+    {
+      "id": 2533,
+      "surah": 21,
+      "ayah": 50,
+      "arabic_text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
+      "translation": "Kanina (Qur'aanku) waa waano barakaysan aanu soo dejinnay, ee miyaad diideysaan oo ka jeesinaysaan [1]?",
+      "footnotes": "[1] Idinkoo iska yeelaya inaydaan aqoon, inkiraya ama diidaya inaad qirtaan."
+    },
+    {
+      "id": 2534,
+      "surah": 21,
+      "ayah": 51,
+      "arabic_text": "۞ وَلَقَدۡ ءَاتَيۡنَآ إِبۡرَٰهِيمَ رُشۡدَهُۥ مِن قَبۡلُ وَكُنَّا بِهِۦ عَٰلِمِينَ",
+      "translation": "Waxaanu dhab ahaan siinnay goor hore Ibraahiim (saamigiisa) hanuunka [1], Waxaaanuna uga war qabnay si dhan.",
+      "footnotes": "[1] Ka hor Muuse, Alle wuxuu hanuunshay Ibraahiim tan iyo yaraantii."
+    },
+    {
+      "id": 2535,
+      "surah": 21,
+      "ayah": 52,
+      "arabic_text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِيٓ أَنتُمۡ لَهَا عَٰكِفُونَ",
+      "translation": "Markuu ku yidhi aabbihii iyo qoladiisii: “Waa maxay sanamyadan aad idinku dul fadhidaan (ee aad caabudeysaan)?”",
+      "footnotes": ""
+    },
+    {
+      "id": 2536,
+      "surah": 21,
+      "ayah": 53,
+      "arabic_text": "قَالُواْ وَجَدۡنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "translation": "Waxay yidhaahdeen: “Waxaan hellay aabbayaashayo oo caabudaya.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2537,
+      "surah": 21,
+      "ayah": 54,
+      "arabic_text": "قَالَ لَقَدۡ كُنتُمۡ أَنتُمۡ وَءَابَآؤُكُمۡ فِي ضَلَٰلٖ مُّبِينٖ",
+      "translation": "(Ibraahiim) wuxuu yidhi: “ Waxaad idinka iyo aabbayaashiinba ku sugan tihiin habow cad?.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2538,
+      "surah": 21,
+      "ayah": 55,
+      "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّٰعِبِينَ",
+      "translation": "Waxay yidhaahdeen: Ma waxaad noola timid xaq, mise adigu waad nagu ciyaari?.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2539,
+      "surah": 21,
+      "ayah": 56,
+      "arabic_text": "قَالَ بَل رَّبُّكُمۡ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلَّذِي فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ",
+      "translation": "(Ibraahiim) wuxuu yidhi: Mayee’ Rabbigiin waa Rabbiga samooyinka iyo arlada ee ah Kan abuuray, aniguna waxaan ka mid ahay kuwa arrinkani ka marag kaci.",
+      "footnotes": ""
+    },
+    {
+      "id": 2540,
+      "surah": 21,
+      "ayah": 57,
+      "arabic_text": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصۡنَٰمَكُم بَعۡدَ أَن تُوَلُّواْ مُدۡبِرِينَ",
+      "translation": "Tallaahi, Waxaan u degi qorshe (tab) (si aan u baabbi’iyo) asnaamtiinna markaad jeedsataan idinkoo tegi [1].",
+      "footnotes": "[1] Ibraahiim c.s. wuxuu ka yidhi hadalladaa qalbigiisa oo keliya inuu tab u degeyo baabbi’inta sanammadooda."
+    },
+    {
+      "id": 2541,
+      "surah": 21,
+      "ayah": 58,
+      "arabic_text": "فَجَعَلَهُمۡ جُذَٰذًا إِلَّا كَبِيرٗا لَّهُمۡ لَعَلَّهُمۡ إِلَيۡهِ يَرۡجِعُونَ",
+      "translation": "Markaasuu wuxuu ka dhigay digada (dhammaan) koodii u weynaa maahee, bal inay xaggiisa u noqdaan (oo ay weydiiyaan).",
+      "footnotes": ""
+    },
+    {
+      "id": 2542,
+      "surah": 21,
+      "ayah": 59,
+      "arabic_text": "قَالُواْ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+      "translation": "Waxay yidhaahdeen: “Yaa ku falay sidan ilaahyadayada?, Kaasi waa daalime?”",
+      "footnotes": ""
+    },
+    {
+      "id": 2543,
+      "surah": 21,
+      "ayah": 60,
+      "arabic_text": "قَالُواْ سَمِعۡنَا فَتٗى يَذۡكُرُهُمۡ يُقَالُ لَهُۥٓ إِبۡرَٰهِيمُ",
+      "translation": "Waxay yidhaahdeen: Waxaan maqallay wiil hadal-haya oo la yidhaahdo Ibraahiim.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2544,
+      "surah": 21,
+      "ayah": 61,
+      "arabic_text": "قَالُواْ فَأۡتُواْ بِهِۦ عَلَىٰٓ أَعۡيُنِ ٱلنَّاسِ لَعَلَّهُمۡ يَشۡهَدُونَ",
+      "translation": "Waxay yidhaahdeen: “Keena oo soo hor joojiya dadka si ay ugu arkaan indhahooda bal inay ku markahaati furaan [1]?.”",
+      "footnotes": "[1] Wuxuu sidoo kale macnaha u dhici karaa: si ay markhaati iyo goob joog uga ahaadaan waxa lagu dhigo oo ciqaab ah."
+    },
+    {
+      "id": 2545,
+      "surah": 21,
+      "ayah": 62,
+      "arabic_text": "قَالُوٓاْ ءَأَنتَ فَعَلۡتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبۡرَٰهِيمُ",
+      "translation": "Waxay yidhaahdeen: “Ma adigaa kan si- daan ku falay ilaahyadayada, Ibraahiimow?",
+      "footnotes": ""
+    },
+    {
+      "id": 2546,
+      "surah": 21,
+      "ayah": 63,
+      "arabic_text": "قَالَ بَلۡ فَعَلَهُۥ كَبِيرُهُمۡ هَٰذَا فَسۡـَٔلُوهُمۡ إِن كَانُواْ يَنطِقُونَ",
+      "translation": "(Ibraahiim) wuxuu yidhi: “Mayee waxaa falay (fale uun) kooda u weyn (sanamyada) waa kane, ee weydiiya hadday hadli karaan!",
+      "footnotes": ""
+    },
+    {
+      "id": 2547,
+      "surah": 21,
+      "ayah": 64,
+      "arabic_text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ",
+      "translation": "Markaasay dib isugu noqdeen oo ay yidhaahdeen: Xaqiiq idinkaa daalimiin ah.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2548,
+      "surah": 21,
+      "ayah": 65,
+      "arabic_text": "ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+      "translation": "Markaasaa laga yeelay inay madaxa hoos u rogtaan [1] 'oo yidhaahdeen': Waad og tahay inayan kuwakani hadlin\"!",
+      "footnotes": "[1] Kaddib markay qirteen gefkoodii, waxaa galay kibir iyo cinaad markaasay haddana ka horyimaadeen oo is rogeen."
+    },
+    {
+      "id": 2549,
+      "surah": 21,
+      "ayah": 66,
+      "arabic_text": "قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمۡ شَيۡـٔٗا وَلَا يَضُرُّكُمۡ",
+      "translation": "(Ibraahiim) wuxuu yidhi: “Ma waxaad caabudeysaan Alle sokadi waxaan waxba idin tari karin waxbana idin yeeli karin?",
+      "footnotes": ""
+    },
+    {
+      "id": 2550,
+      "surah": 21,
+      "ayah": 67,
+      "arabic_text": "أُفّٖ لَّكُمۡ وَلِمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "“Uf baad leedihiin idinka iyo waxaad caabudeysaanba Alle sokadi. Miyeydaan wax fahmeyn?”",
+      "footnotes": ""
+    },
+    {
+      "id": 2551,
+      "surah": 21,
+      "ayah": 68,
+      "arabic_text": "قَالُواْ حَرِّقُوهُ وَٱنصُرُوٓاْ ءَالِهَتَكُمۡ إِن كُنتُمۡ فَٰعِلِينَ",
+      "translation": "Waxay yidhaahdeen: “Guba oo u gargaara ilaahyadiinna, haddaad (wax) falaysaan.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2552,
+      "surah": 21,
+      "ayah": 69,
+      "arabic_text": "قُلۡنَا يَٰنَارُ كُونِي بَرۡدٗا وَسَلَٰمًا عَلَىٰٓ إِبۡرَٰهِيمَ",
+      "translation": "Waxaanu nidhi: Dabkow! U noqo qabow iyo nabad Ibraahiim!”",
+      "footnotes": ""
+    },
+    {
+      "id": 2553,
+      "surah": 21,
+      "ayah": 70,
+      "arabic_text": "وَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَخۡسَرِينَ",
+      "translation": "Waxay la dooneen dhagar (dhib), waxaanse ka yeelnay kuwo khasaaray.",
+      "footnotes": ""
+    },
+    {
+      "id": 2554,
+      "surah": 21,
+      "ayah": 71,
+      "arabic_text": "وَنَجَّيۡنَٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَا لِلۡعَٰلَمِينَ",
+      "translation": "Waxaanu badbaadinnay isaga iyo Luudba (innagoo u wareejinnay xagga) arladii [1] aan u barakaynay dadka oo dhan.",
+      "footnotes": "[1] Dhulkaa waxaa loola jeedaa arlada Shaam (oo ah: Falastiin, Urdun, Suuriya, Lubnaan iyo dhulalka hareerahooda ah). Wuxuuna Alle ku barakeeyey inuu ka soo diray badi anbiyada dhulkaasi, iyo inay sidoo kale tahay dhul wanaagsan oo barako iyo khayr badan."
+    },
+    {
+      "id": 2555,
+      "surah": 21,
+      "ayah": 72,
+      "arabic_text": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ نَافِلَةٗۖ وَكُلّٗا جَعَلۡنَا صَٰلِحِينَ",
+      "translation": "Waxaan siinnay Isxaaq iyo Yacquub oo wiil wiilki ah, waxaan ka yeelnay dhammaan kuwo wanaagsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2556,
+      "surah": 21,
+      "ayah": 73,
+      "arabic_text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا وَأَوۡحَيۡنَآ إِلَيۡهِمۡ فِعۡلَ ٱلۡخَيۡرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِۖ وَكَانُواْ لَنَا عَٰبِدِينَ",
+      "translation": "Waxaanu ka yeelnay hoggaamiyeyaal ku hanuuniya (dadka) Amarkagaya, Waxaana u waxyoonnay falidda khayraadka, oogidda salaadda, iyo bixinta sakada, waxayna ahaayeen kuwo na caabuda (Alle Keliya caabuda).",
+      "footnotes": ""
+    },
+    {
+      "id": 2557,
+      "surah": 21,
+      "ayah": 74,
+      "arabic_text": "وَلُوطًا ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗا وَنَجَّيۡنَٰهُ مِنَ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَت تَّعۡمَلُ ٱلۡخَبَٰٓئِثَۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَٰسِقِينَ",
+      "translation": "Oo Luud Waxaanu siinnay garsoor wanaagsan iyo cilmi, Waxaana ka badbaadinnay magaaladii (Soodom) ee ahayd mid xumo [1] fasha. Waxay ahaayeen qolo xun oo fallaago ah.",
+      "footnotes": "[1] Xumahaas oo ahaa shirki, gaalnimo, fuulitaanka ragga 'khaniisnimo', tuugo, boob, dhac, jid gooyo, iwm iyagoo waxaasi oo idil u fali jiray si bareer ah."
+    },
+    {
+      "id": 2558,
+      "surah": 21,
+      "ayah": 75,
+      "arabic_text": "وَأَدۡخَلۡنَٰهُ فِي رَحۡمَتِنَآۖ إِنَّهُۥ مِنَ ٱلصَّٰلِحِينَ",
+      "translation": "Waxaana gelinnay Naxariistayada, wuxuu ka mid ahaa inta wanaagsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2559,
+      "surah": 21,
+      "ayah": 76,
+      "arabic_text": "وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
+      "translation": "Oo Nuux waa badbaadinnay, markuu noo dhawaaqday kol hore [1]. Waana ka ajiibnay baryadii, oo ka samatabixinnay isaga iyo intii raacday musiibadii weyneyd (harqintii qoonkiisii).",
+      "footnotes": "[1] Macnaha uu habaaray qolodiisii kuwaasoo ku adkeystey shirkiga iyo macaasida."
+    },
+    {
+      "id": 2560,
+      "surah": 21,
+      "ayah": 77,
+      "arabic_text": "وَنَصَرۡنَٰهُ مِنَ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَآۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ",
+      "translation": "Waana uga gargaarnay qolodii beeniyey Aayadahayaga, waxay ahaayeen qolo xun, mrkaasaan harqinnay dhammaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2561,
+      "surah": 21,
+      "ayah": 78,
+      "arabic_text": "وَدَاوُۥدَ وَسُلَيۡمَٰنَ إِذۡ يَحۡكُمَانِ فِي ٱلۡحَرۡثِ إِذۡ نَفَشَتۡ فِيهِ غَنَمُ ٱلۡقَوۡمِ وَكُنَّا لِحُكۡمِهِمۡ شَٰهِدِينَ",
+      "translation": "(Xus) Daawuud iyo Sulaymaan, markay ka garsooreen arrinkii beerta markuu daaqay (beerta) adhi dad leeyihiin (goor habeen ah), Waxaanu aheyn Kuwo garsoorkoodii u marag ah 'arka' [1].",
+      "footnotes": "[1] Wuxuu Daawuud xukumay in adhigaa beertaa daaqay la siiyo ninkii lahaa beerta khasaarahii loo geystey darteed."
+    },
+    {
+      "id": 2562,
+      "surah": 21,
+      "ayah": 79,
+      "arabic_text": "فَفَهَّمۡنَٰهَا سُلَيۡمَٰنَۚ وَكُلًّا ءَاتَيۡنَا حُكۡمٗا وَعِلۡمٗاۚ وَسَخَّرۡنَا مَعَ دَاوُۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَۚ وَكُنَّا فَٰعِلِينَ",
+      "translation": "Waxaanse fahansiinnay Sulaymaan, mid walbaana waxaan siinnay garsoor wanaagsan iyo cilmi, Waxaana u sakhirnay Daawuud buuraha iyo shimbiraha inay la tasbiixsadaan oo Alle amaanaan. Waana Annaga kuwa falay 'waxaasi oo idil' [1].",
+      "footnotes": "[1] Macnaha waa inuu Alle mar waliba karo inuu fuliyo wuxuu doono. Nabi Sulaymaan wuxuu islaa arrinkaa u xukumay si ka duwan xukunkii Nabi Daawuud, wuxuu Sulaymaan guddoonshay in ninkii adhiga lahaa falo beertii adhigiisu halleeyey oo sideedii ku soo cesho, ninkii beerta lahaana uu ku sii intifaaco adhigiisa inta beertiisa looga hagaajinayo, kaddibna mid walbaa wixiisa qaato kii adhiga lahaa adhigiisa, kii beerta lahaana beertiisii oo loo hagaajiyey."
+    },
+    {
+      "id": 2563,
+      "surah": 21,
+      "ayah": 80,
+      "arabic_text": "وَعَلَّمۡنَٰهُ صَنۡعَةَ لَبُوسٖ لَّكُمۡ لِتُحۡصِنَكُم مِّنۢ بَأۡسِكُمۡۖ فَهَلۡ أَنتُمۡ شَٰكِرُونَ",
+      "translation": "Waxaana barnay Daawuud sameynta jaakado bir ah aad labbisataan si ay idiinka dhowrto dhibaatada dagaalkiinna. Ee ma tihiin kuwo (Alle u) mahad naqaya?",
+      "footnotes": ""
+    },
+    {
+      "id": 2564,
+      "surah": 21,
+      "ayah": 81,
+      "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
+      "translation": "(Waxaan u sakhirnay) Sulaymaan dabeysha sida xoogga leh u socota, ee ugu ordeysa si xowli ah amarkiisa xagga dhulkii aan barakaynay (ee Falastiin iyo Suuriya). Waxaana nahay kuwo wax walba Ogsoon.",
+      "footnotes": ""
+    },
+    {
+      "id": 2565,
+      "surah": 21,
+      "ayah": 82,
+      "arabic_text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
+      "translation": "Shaydaammada (dadka iyo jinkaba leh waan u sakhirnay) waxaana ka mid ahaa kuwo u quusa (badda) una fala camallo kale oo taa barbarkeed ah: Waana Annaga kuwa dhowrayey [1].",
+      "footnotes": "[1] Innagaa ka dhowrnay inay caasiyaan oo khilaafaan amarka Sulaymaan, oo ka dhowrnay Sulaymaan inay u geystaan wax waxyeello ah."
+    },
+    {
+      "id": 2566,
+      "surah": 21,
+      "ayah": 83,
+      "arabic_text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+      "translation": "(Xus) Ayyuub markuu u dhawaaqay Rabbigi (isagoo leh): \"Waxaa I taabtay dhib, Adiguna waxaad tahay (Allow) Kan ugu Naxariista Badan inta naxariista.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2567,
+      "surah": 21,
+      "ayah": 84,
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرّٖۖ وَءَاتَيۡنَٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَٰبِدِينَ",
+      "translation": "Markaasaan ajiibnay, Waxaana ka feydnay dhibtii haysey, waxaana siinnay ehelkiisii (uu waayey) iyo in le’eg oo wehlisa - Naxariis Xaggayaga ah, iyo xusuus inay u ahaato kuwa na caabuda.",
+      "footnotes": ""
+    },
+    {
+      "id": 2568,
+      "surah": 21,
+      "ayah": 85,
+      "arabic_text": "وَإِسۡمَٰعِيلَ وَإِدۡرِيسَ وَذَا ٱلۡكِفۡلِۖ كُلّٞ مِّنَ ٱلصَّٰبِرِينَ",
+      "translation": "(Xus) sidoo kale Ismaaciil, iyo Idriis, iyo Dul- Kifil, kulli waxay ka mid ahaayeen kuwa samra.",
+      "footnotes": ""
+    },
+    {
+      "id": 2569,
+      "surah": 21,
+      "ayah": 86,
+      "arabic_text": "وَأَدۡخَلۡنَٰهُمۡ فِي رَحۡمَتِنَآۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ",
+      "translation": "Waxaana dhex gelinnay Naxariistayada. Waxay ka mid ahaayeen kuwa wanaagsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2570,
+      "surah": 21,
+      "ayah": 87,
+      "arabic_text": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبٗا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَيۡهِ فَنَادَىٰ فِي ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبۡحَٰنَكَ إِنِّي كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "translation": "(Xus qisada) rafiiqii nibriga (Yuunus) markuu isaga tegay [dadkiisii] isagoo cadheysan [1], wuxuuna mooday inaanu qabanayn [2]! Markaasuu ka dhawaaqay mugdiyo dhexdooda [3] 'isagoo leh': Ma jiro Ilaah (Xaq ah) aan Adiga aheyn (Allow). Adigaa hufan, anigu xaqiiq waan gefay.",
+      "footnotes": "[1] Ka cadheysan gaalnimada iyo caasiyoobiddooda.\n[2] Macne kale waa aan ku cidhiidhyi doonin (caloosha nibriga).\n[3] Mugdiyadaas oo ah mugdiga habeenka, kan badda, iyo kan caloosha nibriga."
+    },
+    {
+      "id": 2571,
+      "surah": 21,
+      "ayah": 88,
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّيۡنَٰهُ مِنَ ٱلۡغَمِّۚ وَكَذَٰلِكَ نُـۨجِي ٱلۡمُؤۡمِنِينَ",
+      "translation": "Markaasaan ajiibnnay baryadiisii, kana badbaadinnay murugadii. Sidaasaana u badbaadinnaa mu’miniinta.",
+      "footnotes": ""
+    },
+    {
+      "id": 2572,
+      "surah": 21,
+      "ayah": 89,
+      "arabic_text": "وَزَكَرِيَّآ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِي فَرۡدٗا وَأَنتَ خَيۡرُ ٱلۡوَٰرِثِينَ",
+      "translation": "(Xus) Zakariya, markuu u dhawaaqay Rabbigi (isagoo leh):” Rabbiyow! Ha igu dhaafin keli ahaan, Adigaana u Kheyr roon cid wax dhaxasha (u hadha)”.",
+      "footnotes": ""
+    },
+    {
+      "id": 2573,
+      "surah": 21,
+      "ayah": 90,
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ وَوَهَبۡنَا لَهُۥ يَحۡيَىٰ وَأَصۡلَحۡنَا لَهُۥ زَوۡجَهُۥٓۚ إِنَّهُمۡ كَانُواْ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَيَدۡعُونَنَا رَغَبٗا وَرَهَبٗاۖ وَكَانُواْ لَنَا خَٰشِعِينَ",
+      "translation": "Markaasaan ajiibnay baryadiisii, oo siinnay Yaxyaa, una hagaajinnay xaaskiisii. Waxay ahaayeen kuwo u degdega inay falaan camallo wanaagsan oo na barya si rajo iyo cabsiba leh, waxayna ahaayeen kuwo noo nugul (oo kal san).",
+      "footnotes": ""
+    },
+    {
+      "id": 2574,
+      "surah": 21,
+      "ayah": 91,
+      "arabic_text": "وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
+      "translation": "(Xusna) tii xafidday farjigeeda (Maryam), uu ka afuufay (jeebka canbuurkeeda) malaggayaga (Jabriil, markaasay uur qaadday), Waxaana uga yeelnay iyada iyo wiilkeedii (Ciise) calaamo caalamka.",
+      "footnotes": ""
+    },
+    {
+      "id": 2575,
+      "surah": 21,
+      "ayah": 92,
+      "arabic_text": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ",
+      "translation": "Hubaal, diintiinnani (Islaamka) waa diin mid ah [1], Oo Anigu (Alle ah) waxaan ahay Rabbigiin, ee i caabuda Anigoo keliya.",
+      "footnotes": "[1] Ummah waxaa loola jeedaa diin :hab nololeed ay jamaaco dhan wada qaataan oo raacaan, ama dhaqan iyo hannaan wanaagsan ay ummadi raacdo."
+    },
+    {
+      "id": 2576,
+      "surah": 21,
+      "ayah": 93,
+      "arabic_text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ",
+      "translation": "Waxayse u kala goosgoosteen diintoodii (dariiqooyin iyo looxo) dhexdooda [1]. Xaggayagay dhammaan u soo wada noqon.",
+      "footnotes": "[1] Iyagoo noqday dariiqooyin iyo kooxo kala duwan."
+    },
+    {
+      "id": 2577,
+      "surah": 21,
+      "ayah": 94,
+      "arabic_text": "فَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا كُفۡرَانَ لِسَعۡيِهِۦ وَإِنَّا لَهُۥ كَٰتِبُونَ",
+      "translation": "Ee qofkii fasha camallo wanaagsan isagoo mu’min ah, lama duudsiyo ajarka camalkiisa. Oo hubaal Waan u qoreynaa.",
+      "footnotes": ""
+    },
+    {
+      "id": 2578,
+      "surah": 21,
+      "ayah": 95,
+      "arabic_text": "وَحَرَٰمٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَٰهَآ أَنَّهُمۡ لَا يَرۡجِعُونَ",
+      "translation": "Waxaa ka reebban magaalo aan halaagnay inay dib u soo noqoto [1].",
+      "footnotes": "[1] Uma soo laaban karaan adduunkan, mana u tawbad keeni karaan Alle."
+    },
+    {
+      "id": 2579,
+      "surah": 21,
+      "ayah": 96,
+      "arabic_text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
+      "translation": "Ilaa laga soo furo (moos xirkii) Yuug iyo Yamaayuug, waxayna ka soo dhaadhici taag walba si degdeg ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 2580,
+      "surah": 21,
+      "ayah": 97,
+      "arabic_text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
+      "translation": "Markuu soo dhowaado Yabooha Xaqa ah (ee Qiyaamada la gaadho) mise indhaha kuwii gaaloobay way dhaygagi (iyagoo leh): Hoogeennee! Waxaan aheyn kuwo kaga sugan dhoohnaan waxakani; waxaanuna aheyn daalimiin (gar ma qaatayaal).",
+      "footnotes": ""
+    },
+    {
+      "id": 2581,
+      "surah": 21,
+      "ayah": 98,
+      "arabic_text": "إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَٰرِدُونَ",
+      "translation": "Hubaal, Idinka iyo waxaad caabud- daan Alle sokadi, waxaad ahaan shidaalka Naarta, xaggeedaad ku arooreysaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2582,
+      "surah": 21,
+      "ayah": 99,
+      "arabic_text": "لَوۡ كَانَ هَٰٓؤُلَآءِ ءَالِهَةٗ مَّا وَرَدُوهَاۖ وَكُلّٞ فِيهَا خَٰلِدُونَ",
+      "translation": "Hadday kuwakani ahaan lahaayeen ilaahyo ma ay galeen (Naarta), dhammaanna way ku waadhi.",
+      "footnotes": ""
+    },
+    {
+      "id": 2583,
+      "surah": 21,
+      "ayah": 100,
+      "arabic_text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
+      "translation": "Waxay ku leeyihiin gudaheeda cartan iyo hiinraag, oo waxna gudaheeda kuma maqlaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2584,
+      "surah": 21,
+      "ayah": 101,
+      "arabic_text": "إِنَّ ٱلَّذِينَ سَبَقَتۡ لَهُم مِّنَّا ٱلۡحُسۡنَىٰٓ أُوْلَٰٓئِكَ عَنۡهَا مُبۡعَدُونَ",
+      "translation": "Hubaal, kuwa (Nabi Ciise, hooyadi Maryam, iyo addoomaha Alle ee kale ee wanaagsan) ay u hor martay xaggayaga wanaagga, kuwaasu xaggeeda (Naarta) waa laga fogeyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 2585,
+      "surah": 21,
+      "ayah": 102,
+      "arabic_text": "لَا يَسۡمَعُونَ حَسِيسَهَاۖ وَهُمۡ فِي مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَٰلِدُونَ",
+      "translation": "Ma maqlaan shanqarteeda, iyagoo ku dhex waadhi waxay nafahooda rabaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2586,
+      "surah": 21,
+      "ayah": 103,
+      "arabic_text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
+      "translation": "Argagaxa weyn (ee Maalinta Qiyaamada) ma murugo geliyo, malaa’igtuna waxay ku soo dhoweyn (salaan diirran iyagoo ku leh): Kani waa Maalinkiinnii la idin yaboohay.",
+      "footnotes": ""
+    },
+    {
+      "id": 2587,
+      "surah": 21,
+      "ayah": 104,
+      "arabic_text": "يَوۡمَ نَطۡوِي ٱلسَّمَآءَ كَطَيِّ ٱلسِّجِلِّ لِلۡكُتُبِۚ كَمَا بَدَأۡنَآ أَوَّلَ خَلۡقٖ نُّعِيدُهُۥۚ وَعۡدًا عَلَيۡنَآۚ إِنَّا كُنَّا فَٰعِلِينَ",
+      "translation": "Maalinka aan u duubeyno samada sida loo duubo waraaqaha waxa lagu qoro, sidaan u billownay abuuriddii hore baan ku soo celineynaa, (waa) ballan aan qaadnay oo na saaran, hubaal waanu fali.",
+      "footnotes": ""
+    },
+    {
+      "id": 2588,
+      "surah": 21,
+      "ayah": 105,
+      "arabic_text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
+      "translation": "Waxaanu ku qornay Zabuurka [1] kaddib (markaan horay ugu) xusnay Kitaabka [2] in arlada (Jannada) ay dhaxli addoomahyaga wanaagsan.",
+      "footnotes": "[1] Zabuur waa kitaabkii loo waxyooday Nabi Daawuud c.s.Waxaa sidoo kale la yidhi waxaa loola jeedaa Kutubta Alle oo dhan.\n[2] Waa Towraadda, waxaa sidoo kale lagu fasiray Looxa Maxfuudka."
+    },
+    {
+      "id": 2589,
+      "surah": 21,
+      "ayah": 106,
+      "arabic_text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
+      "translation": "Hubaal, arrinkani waxaa ugu sugan Gaarsiin cad qolo na caabudda.",
+      "footnotes": ""
+    },
+    {
+      "id": 2590,
+      "surah": 21,
+      "ayah": 107,
+      "arabic_text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا رَحۡمَةٗ لِّلۡعَٰلَمِينَ",
+      "translation": "Kuuma aanu soo dirin (Nabi Muxammadow) waxaan aheyn Naxariis aad u ahaato uumanka oo idil.",
+      "footnotes": ""
+    },
+    {
+      "id": 2591,
+      "surah": 21,
+      "ayah": 108,
+      "arabic_text": "قُلۡ إِنَّمَا يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ",
+      "translation": "Dheh: Waxaa uun la ii waxyooday inuu Ilaahiinnu yahay ilaah Keliya 'Allaah', ee ma u hoggaansameysaan Muslimiin ahaan?.",
+      "footnotes": ""
+    },
+    {
+      "id": 2592,
+      "surah": 21,
+      "ayah": 109,
+      "arabic_text": "فَإِن تَوَلَّوۡاْ فَقُلۡ ءَاذَنتُكُمۡ عَلَىٰ سَوَآءٖۖ وَإِنۡ أَدۡرِيٓ أَقَرِيبٌ أَم بَعِيدٞ مَّا تُوعَدُونَ",
+      "translation": "Haddiise ay (ka) jeesadaan (Iimaanka), ku dheh waxaan idin siiyey digniin cad ee xaq ah. Mana ogi in waxa la idiinku gooddiyo uu dhow yahay ama fog yahay.”",
+      "footnotes": ""
+    },
+    {
+      "id": 2593,
+      "surah": 21,
+      "ayah": 110,
+      "arabic_text": "إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُونَ",
+      "translation": "Hubaal Wuxuu (Alle) Og yahay hadalka kii kor loo qaado, wuxuuna Og yahay waxaad qarineysaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 2594,
+      "surah": 21,
+      "ayah": 111,
+      "arabic_text": "وَإِنۡ أَدۡرِي لَعَلَّهُۥ فِتۡنَةٞ لَّكُمۡ وَمَتَٰعٌ إِلَىٰ حِينٖ",
+      "translation": "Aniguse ma ogi, waa intaasoo ay idiin tahay fidmo (imtixaan dib u dhigidda cadaabka) iyo raaxo ku eg ilaa muddo.",
+      "footnotes": ""
+    },
+    {
+      "id": 2595,
+      "surah": 21,
+      "ayah": 112,
+      "arabic_text": "قَٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "translation": "(Nabigu isagoo baryaya Rabbigi) wuxuu yidhi: Rabbiyow! Noogu kala garsoor xaq. Rabbigayona waa (Allaah) Raxmaanka ah ee laga kaalmaysto waxaad sheegeysaan [1].",
+      "footnotes": "[1] Waa beenahooda iyo gaalnimadooda iyagoo ku sheega inuu Alle leeyahay ilmo, iyo in Muxammad s.c.w. yahay saaxir, jinnoole, gabyaa, iyo in Qur’aanka yahay gabay, sheeko xariir, sixir, iwm."
+    }
+  ]
+}

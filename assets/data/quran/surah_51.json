@@ -1,0 +1,486 @@
+{
+  "surah_number": 51,
+  "ayahs_count": 60,
+  "ayahs": [
+    {
+      "id": 4676,
+      "surah": 51,
+      "ayah": 1,
+      "arabic_text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+      "translation": "Waxaan ku dhaartay (dabeylaha) boorka kiciya [1].",
+      "footnotes": "[1] Ad-Daariyaat: Dabeylaha boorka kiciya."
+    },
+    {
+      "id": 4677,
+      "surah": 51,
+      "ayah": 2,
+      "arabic_text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+      "translation": "Iyo (duruuraha) xambaarsan culayska (roobka).",
+      "footnotes": ""
+    },
+    {
+      "id": 4678,
+      "surah": 51,
+      "ayah": 3,
+      "arabic_text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+      "translation": "Iyo doonyaha sida fudud ugu socda (badaha).",
+      "footnotes": ""
+    },
+    {
+      "id": 4679,
+      "surah": 51,
+      "ayah": 4,
+      "arabic_text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+      "translation": "Iyo kuwaa (malaa’igta) ku qaybiya (risiqa, roobka, iwm) Amarkeenna.",
+      "footnotes": ""
+    },
+    {
+      "id": 4680,
+      "surah": 51,
+      "ayah": 5,
+      "arabic_text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+      "translation": "(Dadow) waxa la idiinku gooddin (Qiyaamada, Xisaabta) xaqiiq waa run.",
+      "footnotes": ""
+    },
+    {
+      "id": 4681,
+      "surah": 51,
+      "ayah": 6,
+      "arabic_text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+      "translation": "Abaalmarintuna (jaazeynta Aakhiro) waa la hubaa inay dhaceyso.",
+      "footnotes": ""
+    },
+    {
+      "id": 4682,
+      "surah": 51,
+      "ayah": 7,
+      "arabic_text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+      "translation": "Waxaan kaloo (waa Alle'e) ku dhaartay samada quruxda iyo waddooyinka leh,",
+      "footnotes": ""
+    },
+    {
+      "id": 4683,
+      "surah": 51,
+      "ayah": 8,
+      "arabic_text": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+      "translation": "Waxaad idinku (dadow) kaga sugan tihiin (Nabiga iyo Qur’aanka) hadal kala duwan .",
+      "footnotes": ""
+    },
+    {
+      "id": 4684,
+      "surah": 51,
+      "ayah": 9,
+      "arabic_text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+      "translation": "Waxaa laga duwaa (Qur’aanka iyo Nabiga) kan isaga iska duwa.",
+      "footnotes": ""
+    },
+    {
+      "id": 4685,
+      "surah": 51,
+      "ayah": 10,
+      "arabic_text": "قُتِلَ ٱلۡخَرَّٰصُونَ",
+      "translation": "Nacladi ha ku dhacdo beenalayaasha mala awaalka badan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4686,
+      "surah": 51,
+      "ayah": 11,
+      "arabic_text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+      "translation": "Kuwa ku sugan guluf (colaadeed) ee iyagu maahsan (ka maahsan Aakhirada).",
+      "footnotes": ""
+    },
+    {
+      "id": 4687,
+      "surah": 51,
+      "ayah": 12,
+      "arabic_text": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+      "translation": "Waxay weydiin: Waa goorma Maalinta Abaal marintu (Jaazeyntu)?",
+      "footnotes": ""
+    },
+    {
+      "id": 4688,
+      "surah": 51,
+      "ayah": 13,
+      "arabic_text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+      "translation": "Waa Maalinta Naarta lagu gubi.",
+      "footnotes": ""
+    },
+    {
+      "id": 4689,
+      "surah": 51,
+      "ayah": 14,
+      "arabic_text": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+      "translation": "Dhadhamiya cadaabkiinna. Kanu waa waxaad degdegsanayseen.",
+      "footnotes": ""
+    },
+    {
+      "id": 4690,
+      "surah": 51,
+      "ayah": 15,
+      "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَعُيُونٍ",
+      "translation": "Hubaal kuwa ka dhowrsada xumaha waxay ku sugnaan beero iyo ilo (Janno).",
+      "footnotes": ""
+    },
+    {
+      "id": 4691,
+      "surah": 51,
+      "ayah": 16,
+      "arabic_text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+      "translation": "Iyagoo qaadan waxa uu Rabbigood siiyey. Waxay ahaayeen horay sama falayaal.",
+      "footnotes": ""
+    },
+    {
+      "id": 4692,
+      "surah": 51,
+      "ayah": 17,
+      "arabic_text": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+      "translation": "Waxay seexan jireen habeenkii wax yar ma ahee [1].",
+      "footnotes": "[1] Macnaha qayb ka mid ah bay u qoondeyn jireen salaatu leyl, cishaha kaddib ama Aakhiru leylka."
+    },
+    {
+      "id": 4693,
+      "surah": 51,
+      "ayah": 18,
+      "arabic_text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+      "translation": "Waqtiyada suxuurtana way denbi dhaaf weydiisanayeen,",
+      "footnotes": ""
+    },
+    {
+      "id": 4694,
+      "surah": 51,
+      "ayah": 19,
+      "arabic_text": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "translation": "Maalkooda waxaa ahaa qayb uu ku leeyahay weydiistaha iyo kaan wax heysan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4695,
+      "surah": 51,
+      "ayah": 20,
+      "arabic_text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+      "translation": "Dhulka waxaa ugu sugan calaamooyin kuwa yaqiinsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4696,
+      "surah": 51,
+      "ayah": 21,
+      "arabic_text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+      "translation": "Iyo nafahiinnaba, ee miyeydaan arkeyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 4697,
+      "surah": 51,
+      "ayah": 22,
+      "arabic_text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+      "translation": "Samada yuuna jiraa risiqiinna iyo waxa la idiin yaboohay.",
+      "footnotes": ""
+    },
+    {
+      "id": 4698,
+      "surah": 51,
+      "ayah": 23,
+      "arabic_text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+      "translation": "Rabbiga samada iyo arlada yaan ku dhaarane, soo bixinta (Qiyaame iyo in risiqiinnu jiro samada) Xaq weeye, sidaad u hadashaanba.",
+      "footnotes": ""
+    },
+    {
+      "id": 4699,
+      "surah": 51,
+      "ayah": 24,
+      "arabic_text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+      "translation": "Ma ku soo gaaray warka martidii Ibraahiim ee sharafta lahayd?",
+      "footnotes": ""
+    },
+    {
+      "id": 4700,
+      "surah": 51,
+      "ayah": 25,
+      "arabic_text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
+      "translation": "Markay u soo galeen oo yidhaahdeen: nabad ahow, wuxuu yidhi: nabad ahaada. (waxaad tihiin) qolo aan la garaneyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 4701,
+      "surah": 51,
+      "ayah": 26,
+      "arabic_text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+      "translation": "Markaasuu u laabtay dhinac xagga reerkiisii oo keenay dibi buuran oo shiilan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4702,
+      "surah": 51,
+      "ayah": 27,
+      "arabic_text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+      "translation": "Una soo dhoweeyey (isagoo ku leh): Miyeydaan cunayn?",
+      "footnotes": ""
+    },
+    {
+      "id": 4703,
+      "surah": 51,
+      "ayah": 28,
+      "arabic_text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+      "translation": "(Waxbase ma ay cunin) markaas baa waxaa ka galay dareen cabsi ah. Waxay (malaa’igtii) yidhaahdeen: Ha cabsan, waxayna ugu bishaareeyeen wiil aqoon leh (isxaaq).",
+      "footnotes": ""
+    },
+    {
+      "id": 4704,
+      "surah": 51,
+      "ayah": 29,
+      "arabic_text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+      "translation": "Markaasay soo qaabishay marwadiisii iyadoo qaylyi, oo iska dharbaaxday wejiga iyadoo yaabban, oo tidhi: Ma habar ma dhasho ah oo duqowday (yaa wax dhali)!.",
+      "footnotes": ""
+    },
+    {
+      "id": 4705,
+      "surah": 51,
+      "ayah": 30,
+      "arabic_text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+      "translation": "Waxay (malaa’igtii) yidhaahdeen: Sidaasuu yidhi Rabbigaa. Waa Isaga Xakiimka, Wax kasta Ogsoon.",
+      "footnotes": ""
+    },
+    {
+      "id": 4706,
+      "surah": 51,
+      "ayah": 31,
+      "arabic_text": "۞ قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "translation": "(Ibraahiim) wuxuu yidhi: Muxuu xaalkiin- nu yahay kuwayahow la soo diray?",
+      "footnotes": ""
+    },
+    {
+      "id": 4707,
+      "surah": 51,
+      "ayah": 32,
+      "arabic_text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "translation": "Waxay (malaa’igtii) yidhaahdeen: Waxaa naloo soo diray qolo denbiilayaal ah [1].",
+      "footnotes": "[1] Waa kuwaasi beeniyey Luud."
+    },
+    {
+      "id": 4708,
+      "surah": 51,
+      "ayah": 33,
+      "arabic_text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+      "translation": "Si aan ugu soo dirno korkooda dhagaxyo dhoobo kulul ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4709,
+      "surah": 51,
+      "ayah": 34,
+      "arabic_text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+      "translation": "Looga soo calaameeyey xagga Rabbigaa xadgudbayaasha [1].",
+      "footnotes": "[1] Iyadoo dhagax walba lagu qoray magaca qofka lagu halaagayo oo ku dhiman."
+    },
+    {
+      "id": 4710,
+      "surah": 51,
+      "ayah": 35,
+      "arabic_text": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+      "translation": "Markaasaan ka soo bixinnay halkaa wixii ku jiray ee mu’miniin ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4711,
+      "surah": 51,
+      "ayah": 36,
+      "arabic_text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+      "translation": "Kamase aanu helin gudaheeda (magaaladaa) wax aan aheyn hal guri oo muslimiin ah [1].",
+      "footnotes": "[1] Luud iyo reerkiisa marka laga reebo xaaskiisa."
+    },
+    {
+      "id": 4712,
+      "surah": 51,
+      "ayah": 37,
+      "arabic_text": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+      "translation": "Waxaan uga tagnay halkaa (magaalooyinkii Sodom iyo Gammurah ee dadkii Luud) Calaamo [1] kuwa 'mu'miniinta' ka cabsada cadaabka xanuunka badan.",
+      "footnotes": "[1] Raad muujinaya halaaggii ku dhacay qolodii Luud."
+    },
+    {
+      "id": 4713,
+      "surah": 51,
+      "ayah": 38,
+      "arabic_text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+      "translation": "Muuse (calaamad baa ku sugan), markaan u dirnay Fircoon isagoo wata Xujo Cad.",
+      "footnotes": ""
+    },
+    {
+      "id": 4714,
+      "surah": 51,
+      "ayah": 39,
+      "arabic_text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+      "translation": "Wuuse jeestay (Fircoon) isagoo ay la jiraan ciidammadiisii oo yidhi: 'Kani Muuse' waa saaxir ama jinnoole.",
+      "footnotes": ""
+    },
+    {
+      "id": 4715,
+      "surah": 51,
+      "ayah": 40,
+      "arabic_text": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+      "translation": "Markaasaan qabannay isaga (Fircoon) iyo askartiisiiba oo xoog ugu tuurnay badda isagoo eedeysan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4716,
+      "surah": 51,
+      "ayah": 41,
+      "arabic_text": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+      "translation": "Reer Caadna (waxaa ku sugan calaamo lagu waano qaato) markaan ku dirnay dabeyl ma dhaleys ah [1].",
+      "footnotes": "[1] Aan dhalin wax faa’ido ah, khayr daran, macnaha waa shar xambaarsan."
+    },
+    {
+      "id": 4717,
+      "surah": 51,
+      "ayah": 42,
+      "arabic_text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+      "translation": "Wax kama tegin ay ku timid inay ka\ndhigtay maahee digada oo kale.",
+      "footnotes": ""
+    },
+    {
+      "id": 4718,
+      "surah": 51,
+      "ayah": 43,
+      "arabic_text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+      "translation": "Reer Thamuudna (calaamo baa ku sugan lagu waano qaato), markii lagu yidhi: Raaxeysta in muddo yar ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4719,
+      "surah": 51,
+      "ayah": 44,
+      "arabic_text": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+      "translation": "Waxayse ka madax adeygeen Amarka Rabbigood, markaasaa waxaa qabtay danab xoog leh iyagoo arkayey.",
+      "footnotes": ""
+    },
+    {
+      "id": 4720,
+      "surah": 51,
+      "ayah": 45,
+      "arabic_text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+      "translation": "Sidaa darteed waa awoodi waayeen inay soo kacaan, isumana gargaari karin.",
+      "footnotes": ""
+    },
+    {
+      "id": 4721,
+      "surah": 51,
+      "ayah": 46,
+      "arabic_text": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+      "translation": "Qolodii Nuuxna iyaga hortood (waxaa ku sugan calaamo lagu waano qaato), waxay ahaayeen qolo fallaago ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4722,
+      "surah": 51,
+      "ayah": 47,
+      "arabic_text": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+      "translation": "Samada waxaan ku dhisnay awood Oo waa Annaga (Alle ah) kuwa waasiciya.",
+      "footnotes": ""
+    },
+    {
+      "id": 4723,
+      "surah": 51,
+      "ayah": 48,
+      "arabic_text": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+      "translation": "Oo dhulka Waanu gogolnay, Ee fiicanaa diyaariyuhu.",
+      "footnotes": ""
+    },
+    {
+      "id": 4724,
+      "surah": 51,
+      "ayah": 49,
+      "arabic_text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+      "translation": "Wax walbana Waxaan ka abuurnay labo nooc, si aad ugu waano qaadataan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4725,
+      "surah": 51,
+      "ayah": 50,
+      "arabic_text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "translation": "Ee u carara xagga Alle [1], waxaan idiin ahay dige cad ka yimid Xaggiisa.",
+      "footnotes": "[1] Waxaa loola jeedaa u laabta oo ka magan gala gaalnimo iyo denbi falid si aad uga badbaaddaan ciqaabkiisa."
+    },
+    {
+      "id": 4726,
+      "surah": 51,
+      "ayah": 51,
+      "arabic_text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "translation": "Ha u yeelina la jirka Alle Ilaah kale. Waxaan idiin ahay dige cad ka yimid Xaggiisa.",
+      "footnotes": ""
+    },
+    {
+      "id": 4727,
+      "surah": 51,
+      "ayah": 52,
+      "arabic_text": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+      "translation": "Waa sidaase, ma jiro Rasuul u yimid kuwii iyaga ka horreeyey oo aysan odhan: waa saaxir, ama jinnoole.",
+      "footnotes": ""
+    },
+    {
+      "id": 4728,
+      "surah": 51,
+      "ayah": 53,
+      "arabic_text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "translation": "Miyey iskula dardaarmeen arrinkani [1]? Mayee’ waa qolo xadgudub badan.",
+      "footnotes": "[1] Miyey gaaladii beri hore u soo gudbiyeen hadalladan kuwaan hadda jira, sidaa darteed ay u yidhaahdeen isla hadalkoodii oo kale?."
+    },
+    {
+      "id": 4729,
+      "surah": 51,
+      "ayah": 54,
+      "arabic_text": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+      "translation": "Ee iskaga jeeso, kaama saarna eede.",
+      "footnotes": ""
+    },
+    {
+      "id": 4730,
+      "surah": 51,
+      "ayah": 55,
+      "arabic_text": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+      "translation": "Waani, waanadu waxay anfici mu’miniinta.",
+      "footnotes": ""
+    },
+    {
+      "id": 4731,
+      "surah": 51,
+      "ayah": 56,
+      "arabic_text": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+      "translation": "Uma aan abuurin jinka iyo insiga waxaan ahayn inay i caabudaan [1].",
+      "footnotes": "[1] Macnaha Alle Keliya caabudaan iyagoon cidna wax la wadaajin."
+    },
+    {
+      "id": 4732,
+      "surah": 51,
+      "ayah": 57,
+      "arabic_text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+      "translation": "Kama doonayo wax risiq ah, kamana doonayo inay quudiyaan (uunkayga).",
+      "footnotes": ""
+    },
+    {
+      "id": 4733,
+      "surah": 51,
+      "ayah": 58,
+      "arabic_text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+      "translation": "Hubaal waa Allaah Irsaaqaha, Rabbiga iska leh Awoodda sare, Xoogga Badan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4734,
+      "surah": 51,
+      "ayah": 59,
+      "arabic_text": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+      "translation": "Xaqiiq kuwa fala dulmiga (shirkiga iyo macaasida) waxaa u sugnaaday saami 'Cadaab ah' la mid ah saamigii asxaabtood, ee waxba yey dalbin in aan u soo dedejiyo (cadaabka).",
+      "footnotes": ""
+    },
+    {
+      "id": 4735,
+      "surah": 51,
+      "ayah": 60,
+      "arabic_text": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+      "translation": "Hoog waxaa leh kuwa gaalooba, kaasoo ku iman Maalinkoodaasi loogu gooddiyey (Maalinta Qiyaamaha).",
+      "footnotes": ""
+    }
+  ]
+}

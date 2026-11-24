@@ -1,0 +1,38 @@
+{
+  "surah_number": 112,
+  "ayahs_count": 4,
+  "ayahs": [
+    {
+      "id": 6222,
+      "surah": 112,
+      "ayah": 1,
+      "arabic_text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+      "translation": "Dheh: Allaah waa Mid Keliya [1].",
+      "footnotes": "[1] Axad ah aan wax shariig ah lahayn."
+    },
+    {
+      "id": 6223,
+      "surah": 112,
+      "ayah": 2,
+      "arabic_text": "ٱللَّهُ ٱلصَّمَدُ",
+      "translation": "Allaah waa Sayidka Deeqtoon [1].",
+      "footnotes": "[1] Ee ah ma baahdaha loo wada baahan yahay."
+    },
+    {
+      "id": 6224,
+      "surah": 112,
+      "ayah": 3,
+      "arabic_text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+      "translation": "Ma dhalin [1], lamana dhalin [2].",
+      "footnotes": "[1] Macnaha waa ma leh ilmo.\n[2] Macnaha waa ma leh waalid - aabbe iyo hooyo iyo xaas midna."
+    },
+    {
+      "id": 6225,
+      "surah": 112,
+      "ayah": 4,
+      "arabic_text": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+      "translation": "Mana jiro axad u dhigma [1].",
+      "footnotes": "[1] Alle oo la mid ah ama la barbar dhigo iyo cid wax la wadaagta midna."
+    }
+  ]
+}

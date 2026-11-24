@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+
+<html lang="so"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_tab" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;family=Amiri:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100vw;margin:0;padding:0;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "outline-variant": "#bfc7d2", "primary-fixed": "#cee5ff", "on-tertiary-fixed": "#2f1500", "inverse-primary": "#96ccff", "secondary": "#4b6078", "primary-fixed-dim": "#96ccff", "on-secondary": "#ffffff", "surface-container-highest": "#e0e3e5", "inverse-surface": "#2d3133", "on-surface": "#191c1e", "tertiary-fixed": "#ffdcc3", "on-tertiary-container": "#fffbff", "tertiary-fixed-dim": "#ffb77d", "inverse-on-surface": "#eff1f3", "primary-container": "#007abc", "on-background": "#191c1e", "surface-container": "#eceef0", "on-surface-variant": "#3f4851", "on-secondary-fixed-variant": "#33495f", "surface-container-low": "#f2f4f6", "outline": "#707882", "tertiary-container": "#b15f00", "on-tertiary-fixed-variant": "#6e3900", "surface-container-lowest": "#ffffff", "on-primary-fixed": "#001d32", "background": "#f7f9fb", "surface-bright": "#f7f9fb", "on-tertiary": "#ffffff", "on-primary": "#ffffff", "on-secondary-fixed": "#041d32", "error": "#ba1a1a", "on-primary-container": "#fdfcff", "primary": "#006096", "on-error-container": "#93000a", "on-error": "#ffffff", "surface": "#f7f9fb", "secondary-fixed": "#cfe5ff", "surface-container-high": "#e6e8ea", "secondary-container": "#cbe2fe", "error-container": "#ffdad6", "secondary-fixed-dim": "#b2c9e4", "surface-variant": "#e0e3e5", "tertiary": "#8d4b00", "on-secondary-container": "#4f657c", "surface-tint": "#00639a", "on-primary-fixed-variant": "#004a75", "surface-dim": "#d8dadc" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-md": "0.75rem", "space-sm": "0.5rem", "gutter": "1rem", "space-xl": "1.5rem", "space-xs": "0.25rem", "margin": "1rem", "space-lg": "1rem" }, "fontFamily": { "body-arabic": ["Amiri"], "label-sm": ["Plus Jakarta Sans"], "display-lg": ["Plus Jakarta Sans"], "headline-lg": ["Plus Jakarta Sans"], "title-md": ["Plus Jakarta Sans"], "title-arabic": ["Amiri"], "body-lg": ["Plus Jakarta Sans"], "body-md": ["Plus Jakarta Sans"], "headline-md": ["Plus Jakarta Sans"], "label-md": ["Plus Jakarta Sans"] }, "fontSize": { "body-arabic": ["15px", { "lineHeight": "26px", "fontWeight": "400" }], "label-sm": ["11px", { "lineHeight": "14px", "fontWeight": "500" }], "display-lg": ["32px", { "lineHeight": "40px", "fontWeight": "700" }], "headline-lg": ["24px", { "lineHeight": "32px", "fontWeight": "600" }], "title-md": ["16px", { "lineHeight": "24px", "fontWeight": "600" }], "title-arabic": ["18px", { "lineHeight": "30px", "fontWeight": "700" }], "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }], "body-md": ["14px", { "lineHeight": "20px", "fontWeight": "400" }], "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }], "label-md": ["12px", { "lineHeight": "16px", "fontWeight": "600" }] } } } }</script><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head><body class="bg-surface font-body-md text-body-md text-on-surface flex flex-col min-h-screen selection:bg-primary-fixed selection:text-on-primary-fixed"><header class="fixed top-0 inset-x-0 z-50 bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)] pt-safe"><div class="h-16 px-gutter flex items-center justify-between gap-space-sm"><div class="flex items-center gap-space-sm min-w-0 flex-1"><button aria-label="Menu Drawer" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface hover:bg-surface-container transition-colors"><span class="material-symbols-outlined text-[24px]">menu</span></button><div class="flex flex-col min-w-0"><span class="font-label-sm text-label-sm text-primary tracking-wide uppercase font-semibold truncate">Sheekh Xuseen Cali Jabuuti</span><h1 class="font-title-md text-title-md text-on-surface truncate leading-tight">Hoyga</h1></div></div><div class="flex items-center gap-space-xs shrink-0"><button aria-label="Raadi" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface-variant hover:text-on-surface hover:bg-surface-container transition-colors"><span class="material-symbols-outlined text-[22px]">search</span></button><button aria-label="Ogeysiisyada" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface-variant hover:text-on-surface hover:bg-surface-container transition-colors relative"><span class="material-symbols-outlined text-[22px]">notifications</span><span class="absolute top-2.5 right-2.5 w-2 h-2 rounded-full bg-tertiary"></span></button><img alt="Profile" class="w-8 h-8 rounded-full object-cover shrink-0 ml-space-xs" src="https://lh3.googleusercontent.com/aida/AEtjO1U0zpGn2Ms9jBzKDna2OozWoz6IS4ySBVX2qF5RxViTAcPCKrMVD-_PQSmihUG487mY9fADH3uTUKIK8q_IqEjpFnD5v6jldL42rEXb0BGjduhwrV7HZnL0-sEJjvUgg-Qr3VWFkPY8UvRx6-g0Eji-qikDHxwfHs7tQD5_ZFT1bhA1vTD1WvmJ6_-b5bve_M_YA6euH6DiZaiR62eDZDxeFUY8KTqgG0wgedLnVGLbA2fkmSH94I01-Mk"/></div></div></header><main class="flex flex-col relative w-full pt-16 pb-36 bg-surface min-h-screen"><div class="flex flex-col w-full">
+<div class="flex flex-col w-full px-gutter space-y-space-lg">
+<!-- Active State & Header Title Sync Script -->
+<script>
+      (function() {
+        const headerTitle = document.querySelector('header h1');
+        if (headerTitle) {
+          headerTitle.textContent = "Qur'aanka Kariimka";
+        }
+        const navLinks = document.querySelectorAll('nav a');
+        navLinks.forEach((link) => {
+          const path = link.getAttribute('data-path');
+          const iconWrapper = link.querySelector('div');
+          const label = link.querySelector('span.font-label-sm');
+          if (path === 'quraanka') {
+            link.classList.remove('text-on-surface-variant');
+            link.classList.add('text-primary', 'font-semibold');
+            if (iconWrapper) iconWrapper.classList.add('bg-secondary-container', 'text-primary');
+            const icon = link.querySelector('.material-symbols-outlined');
+            if (icon) icon.style.fontVariationSettings = "'FILL' 1";
+          } else {
+            link.classList.remove('text-primary', 'font-semibold');
+            link.classList.add('text-on-surface-variant');
+            if (iconWrapper) iconWrapper.classList.remove('bg-secondary-container', 'text-primary');
+            const icon = link.querySelector('.material-symbols-outlined');
+            if (icon) icon.style.fontVariationSettings = "'FILL' 0";
+          }
+        });
+      })();
+    </script>
+<!-- Continue Reading & Audio Tafsiir Hero Card -->
+<div class="relative overflow-hidden rounded-xl bg-gradient-to-br from-primary via-primary-container to-[#014f7c] text-on-primary p-space-lg shadow-md">
+<!-- Decorative subtle Arabesque geometric SVG watermark -->
+<div class="absolute -right-12 -top-12 w-48 h-48 opacity-10 pointer-events-none">
+<svg class="w-full h-full text-on-primary" fill="none" viewbox="0 0 200 200">
+<polygon fill="none" points="100,10 120,50 165,35 150,80 190,100 150,120 165,165 120,150 100,190 80,150 35,165 50,120 10,100 50,80 35,35 80,50" stroke="currentColor" stroke-width="3"></polygon>
+<circle cx="100" cy="100" fill="none" r="45" stroke="currentColor" stroke-width="2"></circle>
+<circle cx="100" cy="100" r="25" stroke="currentColor" stroke-width="1.5"></circle>
+</svg>
+</div>
+<div class="relative z-10 flex flex-col space-y-space-md">
+<!-- Top Metadata & Bookmark Indicator -->
+<div class="flex items-center justify-between">
+<div class="inline-flex items-center gap-space-xs px-2.5 py-1 rounded-full bg-surface-container-lowest/15 backdrop-blur-md text-on-primary text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">bookmark</span>
+<span>Akhriskii Ugu Dambeeyay</span>
+</div>
+<span class="text-label-sm font-label-sm text-secondary-fixed opacity-90">Juz 2 • Xisbi 3</span>
+</div>
+<!-- Surah Title & Verse Progress -->
+<div class="flex items-baseline justify-between pt-space-xs">
+<div class="flex flex-col">
+<h2 class="font-headline-md text-headline-md tracking-tight font-bold text-on-primary">Suurada Al-Baqarah</h2>
+<span class="font-body-md text-body-md text-secondary-fixed">Aayadda 152 ee 286</span>
+</div>
+<div class="text-right">
+<span class="font-title-arabic text-headline-md text-on-primary">سُورَةُ البَقَرَةِ</span>
+</div>
+</div>
+<!-- Audio Tafsiir Status Pill -->
+<div class="flex items-center gap-space-xs px-3 py-1.5 rounded-lg bg-surface-container-lowest/15 backdrop-blur-md">
+<span class="material-symbols-outlined text-tertiary-fixed text-[18px]">record_voice_over</span>
+<span class="text-label-md font-label-md text-on-primary truncate">Codka Sheekha: Dersi 14aad ee Tafsiirka</span>
+</div>
+<!-- Progress Indicator -->
+<div class="space-y-1 pt-space-xs">
+<div class="flex justify-between items-center text-label-sm font-label-sm text-secondary-fixed">
+<span>Dhamaystirka Juzka</span>
+<span class="font-semibold text-on-primary">53%</span>
+</div>
+<div class="w-full h-1.5 rounded-full bg-surface-container-lowest/20 overflow-hidden">
+<div class="h-full rounded-full bg-tertiary-fixed" style="width: 53%;"></div>
+</div>
+</div>
+<!-- Action CTAs -->
+<div class="flex items-center gap-space-sm pt-space-xs">
+<button class="flex-1 h-11 px-space-md rounded-lg bg-surface-container-lowest text-primary font-label-md text-label-md flex items-center justify-center gap-space-xs shadow-sm hover:bg-surface-container transition-all active:scale-[0.98]" type="button">
+<span class="material-symbols-outlined text-[18px]">menu_book</span>
+<span>Sii Wad Akhriska</span>
+</button>
+<button class="flex-1 h-11 px-space-md rounded-lg bg-surface-container-lowest/20 hover:bg-surface-container-lowest/30 backdrop-blur-md text-on-primary font-label-md text-label-md flex items-center justify-center gap-space-xs transition-all active:scale-[0.98]" type="button">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_circle</span>
+<span class="truncate">Dhagayso Tafsiirka</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Segmented Navigation Filters -->
+<div class="flex items-center gap-space-xs overflow-x-auto pb-1 no-scrollbar -mx-gutter px-gutter">
+<button class="shrink-0 px-4 py-2 rounded-full bg-primary text-on-primary font-label-md text-label-md shadow-sm flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[16px]">menu_book</span>
+<span>Suuradaha (114)</span>
+</button>
+<button class="shrink-0 px-4 py-2 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md hover:bg-surface-variant transition-colors flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[16px]">grid_view</span>
+<span>Ajzada (30 Juz)</span>
+</button>
+<button class="shrink-0 px-4 py-2 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md hover:bg-surface-variant transition-colors flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[16px]">mic</span>
+<span>Tafsiirka Sheekha</span>
+</button>
+<button class="shrink-0 px-4 py-2 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md hover:bg-surface-variant transition-colors flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[16px]">star</span>
+<span>Aayadaha La Doortay</span>
+</button>
+</div>
+<!-- Search & Quick Utilities Bar -->
+<div class="flex items-center gap-space-sm">
+<div class="flex-1 flex items-center gap-space-sm px-space-md py-2.5 rounded-xl bg-surface-container-lowest shadow-sm">
+<span class="material-symbols-outlined text-outline text-[20px]">search</span>
+<input class="w-full bg-transparent text-on-surface placeholder:text-outline text-body-md font-body-md focus:outline-none" placeholder="Raadi Suurad, Aayad ama Mawduuc..." type="text"/>
+</div>
+<button aria-label="Kala saar" class="w-11 h-11 flex items-center justify-center rounded-xl bg-surface-container-lowest text-on-surface-variant hover:text-on-surface shadow-sm active:bg-surface-container transition-colors shrink-0">
+<span class="material-symbols-outlined text-[20px]">swap_vert</span>
+</button>
+<button aria-label="U bood aayad" class="w-11 h-11 flex items-center justify-center rounded-xl bg-secondary-container text-on-secondary-container hover:bg-secondary-fixed shadow-sm active:scale-95 transition-all shrink-0" title="U bood Aayad">
+<span class="material-symbols-outlined text-[20px]">my_location</span>
+</button>
+</div>
+<!-- Surahs List Header -->
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-space-xs">
+<span class="font-headline-md text-headline-md text-on-surface">Liiska Suuradaha</span>
+<span class="text-label-sm font-label-sm px-2 py-0.5 rounded-full bg-secondary-container text-on-secondary-container font-semibold">114</span>
+</div>
+<button class="text-label-md font-label-md text-primary hover:underline flex items-center gap-0.5">
+<span>Kala Saar (1-114)</span>
+<span class="material-symbols-outlined text-[16px]">arrow_drop_down</span>
+</button>
+</div>
+<!-- Surah Items -->
+<div class="flex flex-col space-y-space-sm">
+<!-- Surah 1: Al-Faatixa -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm group">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<!-- Quranic 8-point geometric badge -->
+<div class="w-10 h-10 rounded-full bg-primary-fixed flex items-center justify-center text-primary font-bold text-label-md shrink-0 relative">
+<span>1</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5">
+<span class="font-title-md text-title-md text-on-surface">Al-Faatixa</span>
+<span class="text-label-sm font-label-sm text-outline">• 7 Aayadood</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Makkiyah • Furaha Qur'aanka</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ الفَاتِحَةِ</span>
+</div>
+</div>
+<!-- Sub features row & Play Audio Tafsiir -->
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span class="truncate">Tafsiir buuxa • Sh. Xuseen Cali (28 daqiiqo)</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid Suurada" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 2: Al-Baqarah (Active Reading) -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm relative overflow-hidden">
+<div class="absolute left-0 top-0 bottom-0 w-1 bg-primary"></div>
+<div class="flex items-center justify-between gap-space-sm pl-1">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center font-bold text-label-md shrink-0 shadow-sm">
+<span>2</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5">
+<span class="font-title-md text-title-md text-on-surface">Al-Baqarah</span>
+<span class="text-label-sm font-label-sm text-outline">• 286 Aayadood</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Madaniyah • Aayadda 152 meesha joogto</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ البَقَرَةِ</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs pl-1">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-secondary-container text-on-secondary-container text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px]">graphic_eq</span>
+<span>Tafsiir 1-40 Dersi • Sh. Xuseen</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Degso dhammaan dersiyada" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">download</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 3: Aali Cimraan -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-surface-container-high flex items-center justify-center text-on-surface-variant font-bold text-label-md shrink-0">
+<span>3</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5">
+<span class="font-title-md text-title-md text-on-surface">Aali Cimraan</span>
+<span class="text-label-sm font-label-sm text-outline">• 200 Aayadood</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Madaniyah • Juz 3-4</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ آلِ عِمْرَانَ</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span>Tafsiir Maqal ah (Dersi 1-25)</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 4: An-Nisaa -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-surface-container-high flex items-center justify-center text-on-surface-variant font-bold text-label-md shrink-0">
+<span>4</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5">
+<span class="font-title-md text-title-md text-on-surface">An-Nisaa</span>
+<span class="text-label-sm font-label-sm text-outline">• 176 Aayadood</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Madaniyah • Juz 4-6</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ النِّسَاءِ</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span>Tafsiir Maqal ah (Dersi 1-28)</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 18: Al-Kahf -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-tertiary-fixed flex items-center justify-center text-on-tertiary-fixed font-bold text-label-md shrink-0">
+<span>18</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5 flex-wrap">
+<span class="font-title-md text-title-md text-on-surface">Al-Kahf</span>
+<span class="text-label-sm font-label-sm text-outline">• 110 Aayadood</span>
+<span class="px-2 py-0.5 rounded-full bg-tertiary/10 text-tertiary text-label-sm font-label-sm font-semibold">Sunnada Jimcaha</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Makkiyah • Nuurka u dhaxeeya labada Jimce</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ الكَهْفِ</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span>Akhris &amp; Tafsiir gaar ah • Sh. Xuseen</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 36: Yaasiin -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-surface-container-high flex items-center justify-center text-on-surface-variant font-bold text-label-md shrink-0">
+<span>36</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5">
+<span class="font-title-md text-title-md text-on-surface">Yaasiin</span>
+<span class="text-label-sm font-label-sm text-outline">• 83 Aayadood</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Makkiyah • Qalbiga Qur'aanka</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ يس</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span>Tafsiir Qaybaysan • 4 Dersi</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Surah 67: Al-Mulk -->
+<div class="p-space-md rounded-xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow flex flex-col gap-space-sm">
+<div class="flex items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-md min-w-0">
+<div class="w-10 h-10 rounded-full bg-surface-container-high flex items-center justify-center text-on-surface-variant font-bold text-label-md shrink-0">
+<span>67</span>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1.5 flex-wrap">
+<span class="font-title-md text-title-md text-on-surface">Al-Mulk</span>
+<span class="text-label-sm font-label-sm text-outline">• 30 Aayadood</span>
+<span class="px-2 py-0.5 rounded-full bg-secondary-container text-on-secondary-container text-label-sm font-label-sm font-semibold">Adkaarta Hurdada</span>
+</div>
+<span class="text-label-sm font-label-sm text-on-surface-variant">Makkiyah • Badbaadada Cadaabka Qabriga</span>
+</div>
+</div>
+<div class="text-right shrink-0">
+<span class="font-title-arabic text-title-arabic text-primary leading-tight">سُورَةُ المُلْكِ</span>
+</div>
+</div>
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-surface-container text-on-surface-variant text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[15px] text-tertiary">mic</span>
+<span>Tafsiir &amp; Akhris Qurux badan</span>
+</div>
+<div class="flex items-center gap-space-xs shrink-0">
+<button aria-label="Xafid" class="w-9 h-9 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors">
+<span class="material-symbols-outlined text-[19px]">bookmark_border</span>
+</button>
+<button aria-label="Dhagayso Tafsiirka" class="w-9 h-9 rounded-full flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container shadow-sm transition-colors">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">play_arrow</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<!-- Featured Hadith Knowledge Card -->
+<div class="relative overflow-hidden rounded-xl bg-surface-container-low p-space-lg shadow-sm space-y-space-sm">
+<div class="flex items-center gap-space-xs text-tertiary">
+<span class="material-symbols-outlined text-[20px]">auto_awesome</span>
+<span class="font-title-md text-label-md font-semibold uppercase tracking-wider">Fadliga Akhriska &amp; Barashada Qur'aanka</span>
+</div>
+<!-- Arabic Hadith text with Amiri and Tashkeel -->
+<div class="pt-space-xs pb-space-xs">
+<p class="font-title-arabic text-headline-md text-on-surface text-center leading-loose dir-rtl" dir="rtl">
+          « خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ »
+        </p>
+</div>
+<!-- Somali meaning & Hadith source -->
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed text-center italic">
+        "Waxa idiinku khayr badan qofka Qur'aanka barta, dadkana bara."
+      </p>
+<div class="flex items-center justify-center gap-2 pt-space-xs text-label-sm font-label-sm text-outline">
+<span>Riyaadu Saalixiina (Xadiis 993)</span>
+<span>•</span>
+<span>Saxnuul Bukhaari</span>
+</div>
+</div>
+</div>
+</div></main><aside class="fixed bottom-20 inset-x-0 z-40 px-gutter pointer-events-none"><div class="pointer-events-auto bg-surface-container-lowest/95 backdrop-blur-xl rounded-xl p-space-sm shadow-[0_8px_24px_-4px_rgba(0,96,150,0.12),0_2px_6px_0_rgba(25,28,30,0.04)] flex flex-col gap-space-xs"><div class="w-full bg-surface-container-high h-1 rounded-full overflow-hidden"><div class="bg-primary h-full w-[42%] rounded-full"></div></div><div class="flex items-center justify-between gap-space-sm pt-space-xs"><div class="flex items-center gap-space-sm min-w-0 flex-1"><div class="w-10 h-10 rounded-lg bg-primary-fixed flex items-center justify-center text-primary shrink-0 relative overflow-hidden"><span class="material-symbols-outlined text-[22px]">graphic_eq</span></div><div class="flex flex-col min-w-0 flex-1"><p class="font-title-md text-label-md text-on-surface truncate">Sharaxa Riyaadu Saalixiina</p><span class="font-label-sm text-label-sm text-on-surface-variant truncate font-body-arabic">شرح رياض الصالحين • Dersi 24</span></div></div><div class="flex items-center gap-space-xs shrink-0"><button aria-label="Dib ugu noqo 10 ilbiriqsi" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface-variant hover:text-on-surface"><span class="material-symbols-outlined text-[22px]">replay_10</span></button><button aria-label="Hakad / Sii wad" class="w-11 h-11 flex items-center justify-center rounded-full bg-primary text-on-primary shadow-sm hover:bg-primary-container transition-colors"><span class="material-symbols-outlined text-[24px]">pause</span></button><button aria-label="Xidh codka yar" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface-variant hover:text-on-surface"><span class="material-symbols-outlined text-[20px]">close</span></button></div></div></div></aside><nav class="fixed bottom-0 inset-x-0 z-50 pb-safe bg-surface-container-lowest/90 backdrop-blur-xl shadow-[0_-1px_12px_rgba(0,0,0,0.05)]" data-active-classes="text-primary font-semibold"><div class="flex justify-around items-center h-20 px-space-xs"><a class="flex flex-col items-center justify-center gap-1 flex-1 h-full text-on-surface-variant transition-colors group" data-path="hoyga" href="#"><div class="w-12 h-8 rounded-full flex items-center justify-center group-hover:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[22px]">home</span></div><span class="font-label-sm text-label-sm tracking-tight">Hoyga</span></a><a class="flex flex-col items-center justify-center gap-1 flex-1 h-full text-on-surface-variant transition-colors group" data-path="muxaadarooyinka" href="#"><div class="w-12 h-8 rounded-full flex items-center justify-center group-hover:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[22px]">podcasts</span></div><span class="font-label-sm text-label-sm tracking-tight">Muxaadaro</span></a><a class="flex flex-col items-center justify-center gap-1 flex-1 h-full text-on-surface-variant transition-colors group" data-path="quraanka" href="#"><div class="w-12 h-8 rounded-full flex items-center justify-center group-hover:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[22px]">menu_book</span></div><span class="font-label-sm text-label-sm tracking-tight">Qur'aan</span></a><a class="flex flex-col items-center justify-center gap-1 flex-1 h-full text-on-surface-variant transition-colors group" data-path="adkaar" href="#"><div class="w-12 h-8 rounded-full flex items-center justify-center group-hover:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[22px]">auto_awesome</span></div><span class="font-label-sm text-label-sm tracking-tight">Adkaar</span></a><a class="flex flex-col items-center justify-center gap-1 flex-1 h-full text-on-surface-variant transition-colors group" data-path="dejinta" href="#"><div class="w-12 h-8 rounded-full flex items-center justify-center group-hover:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[22px]">settings</span></div><span class="font-label-sm text-label-sm tracking-tight">Dejinta</span></a></div></nav></body></html>

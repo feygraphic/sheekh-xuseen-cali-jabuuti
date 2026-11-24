@@ -1,0 +1,30 @@
+{
+  "surah_number": 110,
+  "ayahs_count": 3,
+  "ayahs": [
+    {
+      "id": 6214,
+      "surah": 110,
+      "ayah": 1,
+      "arabic_text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "translation": "Markuu yimaado Gargaarka Alle iyo guusha (Furashada Makkah).",
+      "footnotes": ""
+    },
+    {
+      "id": 6215,
+      "surah": 110,
+      "ayah": 2,
+      "arabic_text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+      "translation": "Oo aad aragto dadka oo u soo galaya diinta Alle (Islaamka) rac-rac (kooxo),",
+      "footnotes": ""
+    },
+    {
+      "id": 6216,
+      "surah": 110,
+      "ayah": 3,
+      "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "translation": "Markaas ku tasbiixso Ammaanaha Rabbigaa, weydiisona Denbi Dhaaf. Hubaal Alle waa Tawbad aqbal Badane.",
+      "footnotes": ""
+    }
+  ]
+}

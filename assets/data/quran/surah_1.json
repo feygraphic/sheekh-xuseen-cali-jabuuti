@@ -1,0 +1,62 @@
+{
+  "surah_number": 1,
+  "ayahs_count": 7,
+  "ayahs": [
+    {
+      "id": 1,
+      "surah": 1,
+      "ayah": 1,
+      "arabic_text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "In the name of Allāh [1], the Most Compassionate, the Most Merciful.",
+      "footnotes": "[1] Allāh is the supreme and uniquely proper Name of God. Linguistically, it is a proper, underived Name belonging exclusively to the One Almighty God—the Creator and Sustainer of the heavens and the earth and all that is within them; the Eternal, Absolute, and Self-Sufficient One, who alone is worthy of all worship.\nThis majestic Name refers to the very same One God worshipped and proclaimed by Noah, Abraham, Moses, Jesus, Muhammad ﷺ, and all the other prophets sent by God. The Qur’an identifies Him as Allāh, affirming the unbroken continuity of pure monotheism throughout divine revelation and the unified message of all the prophets."
+    },
+    {
+      "id": 2,
+      "surah": 1,
+      "ayah": 2,
+      "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "Ammaan idilkeed iyo mahad waxaa leh Allaah, Rabbiga uumanka.",
+      "footnotes": ""
+    },
+    {
+      "id": 3,
+      "surah": 1,
+      "ayah": 3,
+      "arabic_text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "Naxariistaha (Naxariis guud ahaaneed), Naxariista Badan [1].",
+      "footnotes": "[1] Ar-Raxmaan iyo Ar-Raxiim waa labo magac uu leeyahay Alle ee ka soo jeeda kelmedda Raxmah. Xagga naxwaha afka Carabiga labada magacba waa ku xeel dheeraansho Naxariisashada. Waa Deeq ballaaran iyo Naxariisasho guud ahaaneed labaduba. Raxmaan waxaa lagu tilmaamaa Alle oo keliya, waana sifad aan cid kale la wadaagin, halka Raxiim lagu tilmaami karo qof gaar ah. Nabiga s.c.w. waxaa uu Qur’aanku ku tilmaamay inuu yahay Raxiim. Raxmaan se waa wax ka sarreeya heerka Aadmiga (waa Naxariisasho durba ah oo guud ahaaneed) oo waqti ku kooban oo uunka oo idil gaadha, caddaaladdu waa qayb ka mid ah Naxariistan. Alle wuxuu isku tilaamamay sidoo kale Raxiim oo ah Naxariisasho joogto ah oo gaar ahaaneed oo u naxariisto mu’miniinta, denbi dhaafka iyo ceeb asturidda waa qayb ka mid ah Naxariistan."
+    },
+    {
+      "id": 4,
+      "surah": 1,
+      "ayah": 4,
+      "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "translation": "Boqorka Maalinta Jaazeynta [1].",
+      "footnotes": "[1] Qiyaamada ee iska leh wax walba."
+    },
+    {
+      "id": 5,
+      "surah": 1,
+      "ayah": 5,
+      "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "translation": "Adigoo Keliya baynu (Allow) ku caabudi, oo Adigoo Keliya baynu ku weydiisan kaalmo.",
+      "footnotes": ""
+    },
+    {
+      "id": 6,
+      "surah": 1,
+      "ayah": 6,
+      "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "translation": "Nagu hanuuni (oo sug) Jidka Toosan.",
+      "footnotes": ""
+    },
+    {
+      "id": 7,
+      "surah": 1,
+      "ayah": 7,
+      "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "translation": "Jidka kuwa aad u Nicmaysay [1], aan aheyn (jidka) kuwa loo cadhooday [2] iyo (jidka) kuwa lunsan midna [3].",
+      "footnotes": "[1] Kuwo Alle siiyey Galladdiisa waa Nabiyada, runlowyada, suubbanayaasha, iyo shuhadada.\n[2] Kuwa uu Alle u cadhooday waa kuwa iyagoo u cilmi leh aan ku camal falin diinta ee diida xaqa, sida Yuhuudda iwm.\n[3] Kuwa lunsan waa kuwo cilmi la’aan iska cibaadeysta iyagoo ku socda caqiidooyin gurracan sida Nasaarada iwm."
+    }
+  ]
+}

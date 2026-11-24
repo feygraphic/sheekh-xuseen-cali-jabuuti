@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mosque_1",
+    "categoryId": "mosque",
+    "category": "Gelidda & Ka-bixidda Masaajidka",
+    "title": "Ducada U Socoshada Masaajidka (Ducada Nuurka)",
+    "arabicTitle": "دعاء المشي إلى المسجد",
+    "arabicText": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا",
+    "somaliTranslation": "Ilaahow qalbiygayga yeel nuur, carrabkaygana nuur, maqalkaygana nuur, araggaygana nuur, korkaygana nuur, hoostaydana nuur, midigtaydana nuur, bidixdaydana nuur, hortaydana nuur, gadaashaydana nuur, naftaydana nuur u yeel, nuurkanna ii weyneey.",
+    "transliteration": "Allaahummaj-'al fee qalbee nooraa, wa fee lisaanee nooraa, wa fee sam'ee nooraa...",
+    "reference": "Saxiixul Bukhaari (6316), Saxiix Muslim (763)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  },
+  {
+    "id": "mosque_2",
+    "categoryId": "mosque",
+    "category": "Gelidda & Ka-bixidda Masaajidka",
+    "title": "Ducada Gelidda Masaajidka (Albaabbada Naxariista)",
+    "arabicTitle": "دعاء دخول المسجد",
+    "arabicText": "بِسْمِ اللَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "somaliTranslation": "Magaca Eebbe ayaan ku bilaabayaa, naxariis iyo nabadgelyana korkiisa ha ahaato Rasuulka Eebbe. Ilaahow ii fur albaabbada naxariistaada. (Cagta midig oo lagu hormariyo).",
+    "transliteration": "Bismillaahi, was-salaatu was-salaamu 'alaa Rasoolillaah, Allaahummaf-tah lee abwaaba rahmatik",
+    "reference": "Saxiix Muslim (713), Abuu Daawuud (465)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  },
+  {
+    "id": "mosque_3",
+    "categoryId": "mosque",
+    "category": "Gelidda & Ka-bixidda Masaajidka",
+    "title": "Ducada Ka Bixidda Masaajidka (Weydiinta Fadliga)",
+    "arabicTitle": "دعاء الخروج من المسجد",
+    "arabicText": "بِسْمِ اللَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "somaliTranslation": "Magaca Eebbe, naxariis iyo nabadgelyana korkiisa ha ahaato Rasuulka Eebbe. Ilaahow waxaan ku weydiisanayaa fadligaaga. Ilaahow iga dhowr shaydaanka la nacladay. (Cagta bidix oo lagu hormariyo).",
+    "transliteration": "Bismillaahi was-salaatu was-salaamu 'alaa Rasoolillaah, Allaahumma innee as'aluka min fadlik, Allaahumma'simnee minash-shaytaanir-rajeem",
+    "reference": "Saxiix Muslim (713), Ibn Maajah (773)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  }
+]

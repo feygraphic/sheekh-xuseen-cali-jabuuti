@@ -1,0 +1,422 @@
+{
+  "surah_number": 68,
+  "ayahs_count": 52,
+  "ayahs": [
+    {
+      "id": 5272,
+      "surah": 68,
+      "ayah": 1,
+      "arabic_text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+      "translation": "Nuun [1].\nWaxaan (waa Alle'e) ku dhaartay Qalinka iyo waxay (malaa’igtu) qoraan.",
+      "footnotes": "[1] Eeg sharaxa hoose ee Suuradda 2 Al-Baqarah: Aayadda 1."
+    },
+    {
+      "id": 5273,
+      "surah": 68,
+      "ayah": 2,
+      "arabic_text": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ",
+      "translation": "Waa igu Nicmadda Rabbigaaye, ma ahid (Muxammadow) jinnoole.",
+      "footnotes": ""
+    },
+    {
+      "id": 5274,
+      "surah": 68,
+      "ayah": 3,
+      "arabic_text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
+      "translation": "Waxaad leedahay (Nabiyow) ajar aan weligii go'eyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 5275,
+      "surah": 68,
+      "ayah": 4,
+      "arabic_text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
+      "translation": "Waxaa xaqiiq kuu sugnaaday (Nabiyow) dabeecad san oo sare.",
+      "footnotes": ""
+    },
+    {
+      "id": 5276,
+      "surah": 68,
+      "ayah": 5,
+      "arabic_text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+      "translation": "Marka waad arki, iyaguna (sidoo kale) way arki,",
+      "footnotes": ""
+    },
+    {
+      "id": 5277,
+      "surah": 68,
+      "ayah": 6,
+      "arabic_text": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ",
+      "translation": "Kiinna fidmeysan (ama la cadaabo).",
+      "footnotes": ""
+    },
+    {
+      "id": 5278,
+      "surah": 68,
+      "ayah": 7,
+      "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+      "translation": "Hubaal Rabbigaa baa Ogsoon kan ka dhuma Jidkiisa, Isagaana Og kuwa hanuunsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5279,
+      "surah": 68,
+      "ayah": 8,
+      "arabic_text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+      "translation": "Ee ha adeecin xaq beeniyayaasha.",
+      "footnotes": ""
+    },
+    {
+      "id": 5280,
+      "surah": 68,
+      "ayah": 9,
+      "arabic_text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+      "translation": "Waxay jecel yihiin inaad u iilato (oo ku raacdo wax ka mid ah baadilkooda), iyaguna (markaa) kuu soo iishaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5281,
+      "surah": 68,
+      "ayah": 10,
+      "arabic_text": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
+      "translation": "Oo ha adeecin mid kastoo dhaar badan qiimo laheyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 5282,
+      "surah": 68,
+      "ayah": 11,
+      "arabic_text": "هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ",
+      "translation": "Xamasho badan, u socod badan dira diro (nabiibiye ah).",
+      "footnotes": ""
+    },
+    {
+      "id": 5283,
+      "surah": 68,
+      "ayah": 12,
+      "arabic_text": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ",
+      "translation": "Khayr diid, xad-gudbe, denbi badan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5284,
+      "surah": 68,
+      "ayah": 13,
+      "arabic_text": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ",
+      "translation": "macangag ah madax adag - intaasoo dhan ka sokow mid liita ah (aan nasab ahayn).",
+      "footnotes": ""
+    },
+    {
+      "id": 5285,
+      "surah": 68,
+      "ayah": 14,
+      "arabic_text": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+      "translation": "Haba lahaadee maal iyo wiilal.",
+      "footnotes": ""
+    },
+    {
+      "id": 5286,
+      "surah": 68,
+      "ayah": 15,
+      "arabic_text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "translation": "Kaasoo marka Aayadahayaga loo akhriyo, yidhaahda: Waa sheekooyinkii kuwii hore.",
+      "footnotes": ""
+    },
+    {
+      "id": 5287,
+      "surah": 68,
+      "ayah": 16,
+      "arabic_text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+      "translation": "Waxaanu ka calaameyn sanqaroorka dushiisa.",
+      "footnotes": ""
+    },
+    {
+      "id": 5288,
+      "surah": 68,
+      "ayah": 17,
+      "arabic_text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+      "translation": "Waxaanu u imtixaannay sidaanu u imtixaannay qoladii iska lahaa beerta, markay ku dhaarteen inay goosanayaan midhaheeda aroorta hore.",
+      "footnotes": ""
+    },
+    {
+      "id": 5289,
+      "surah": 68,
+      "ayah": 18,
+      "arabic_text": "وَلَا يَسۡتَثۡنُونَ",
+      "translation": "Iyagoon dhihin inshaa Allaah (dooneyna inay qayb u dhigaan saboolka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5290,
+      "surah": 68,
+      "ayah": 19,
+      "arabic_text": "فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+      "translation": "Markaasaa waxaa uga yimid amar (dab) xagga Rabbigaa habeennimadii (oo beertii gubatay) intay hurdeen.",
+      "footnotes": ""
+    },
+    {
+      "id": 5291,
+      "surah": 68,
+      "ayah": 20,
+      "arabic_text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+      "translation": "Markaasay noqotay sida xaabo madoobaatay oo la shafay.",
+      "footnotes": ""
+    },
+    {
+      "id": 5292,
+      "surah": 68,
+      "ayah": 21,
+      "arabic_text": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+      "translation": "Waxay isu dhawaaqeen subaxnimadii,",
+      "footnotes": ""
+    },
+    {
+      "id": 5293,
+      "surah": 68,
+      "ayah": 22,
+      "arabic_text": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ",
+      "translation": "iyagoo leh: Ku kallaha beertiinna haddaad goosanaysaan midhaha.",
+      "footnotes": ""
+    },
+    {
+      "id": 5294,
+      "surah": 68,
+      "ayah": 23,
+      "arabic_text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
+      "translation": "Markaasay tageen iyagoo ku wada tashaday si qarsoodi ah,",
+      "footnotes": ""
+    },
+    {
+      "id": 5295,
+      "surah": 68,
+      "ayah": 24,
+      "arabic_text": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ",
+      "translation": "Inuusan qof miskiin ah u soo gelin maanta (beerta, waxnana siin).",
+      "footnotes": ""
+    },
+    {
+      "id": 5296,
+      "surah": 68,
+      "ayah": 25,
+      "arabic_text": "وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قَٰدِرِينَ",
+      "translation": "Waxayna kallaheen subaxii hore iyagoo go’aansan inay (beerta) ka celiyaan (masaakiinta).",
+      "footnotes": ""
+    },
+    {
+      "id": 5297,
+      "surah": 68,
+      "ayah": 26,
+      "arabic_text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+      "translation": "Markayse arkeen beertii, waxay yidhaahdeen: xaqiiq waanu dhunnay.",
+      "footnotes": ""
+    },
+    {
+      "id": 5298,
+      "surah": 68,
+      "ayah": 27,
+      "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "translation": "Mayee, waa la ina hoojiyey .",
+      "footnotes": ""
+    },
+    {
+      "id": 5299,
+      "surah": 68,
+      "ayah": 28,
+      "arabic_text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+      "translation": "Koodii u wanaagsanaa baa yidhi: Miyaana idinku odhan: (Alle) u tasbiixsada oo hufa?",
+      "footnotes": ""
+    },
+    {
+      "id": 5300,
+      "surah": 68,
+      "ayah": 29,
+      "arabic_text": "قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "Waxay yidhaahdeen: Xurmoo idil waxaa iska leh oo ceeb iyo nuqsaan ka hufan Rabbigeen. Hubaal Waanu gefnay.",
+      "footnotes": ""
+    },
+    {
+      "id": 5301,
+      "surah": 68,
+      "ayah": 30,
+      "arabic_text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ",
+      "translation": "Markaasaa qaarba qaar ka hor jeesaday iyagoo is eedeynaya.",
+      "footnotes": ""
+    },
+    {
+      "id": 5302,
+      "surah": 68,
+      "ayah": 31,
+      "arabic_text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+      "translation": "Waxay yidhaahdeen: Magaceen ba'ye, waanu xadgudubnay.",
+      "footnotes": ""
+    },
+    {
+      "id": 5303,
+      "surah": 68,
+      "ayah": 32,
+      "arabic_text": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+      "translation": "Waa intaasoo Rabbigeen noogu beddelo beer ka wanaagsan, Isagaan innagu xaqiiq khayr ka rajeyne.",
+      "footnotes": ""
+    },
+    {
+      "id": 5304,
+      "surah": 68,
+      "ayah": 33,
+      "arabic_text": "كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+      "translation": "Waa sidaas cadaabku. Cadaabka Aakhiraana ka sii weyn. Hadday ogaan lahaayeen.",
+      "footnotes": ""
+    },
+    {
+      "id": 5305,
+      "surah": 68,
+      "ayah": 34,
+      "arabic_text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation": "Hubaal kuwa Alle ka cabsada (oo ka dhowrsada xumaha) waxay leeyihiin Rabbigood agtiisa Jannooyin barwaaqo ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 5306,
+      "surah": 68,
+      "ayah": 35,
+      "arabic_text": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ",
+      "translation": "Ma Muslimiinta (Alle u hoggaansan) baanu kala mid dhigi denbiilayaasha.",
+      "footnotes": ""
+    },
+    {
+      "id": 5307,
+      "surah": 68,
+      "ayah": 36,
+      "arabic_text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+      "translation": "Maxaad leedihiin? Sidee baad wax u xukumeysaan?",
+      "footnotes": ""
+    },
+    {
+      "id": 5308,
+      "surah": 68,
+      "ayah": 37,
+      "arabic_text": "أَمۡ لَكُمۡ كِتَٰبٞ فِيهِ تَدۡرُسُونَ",
+      "translation": "Mise waxaad heysataan kitaab aad ka akhrisataan -",
+      "footnotes": ""
+    },
+    {
+      "id": 5309,
+      "surah": 68,
+      "ayah": 38,
+      "arabic_text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+      "translation": "Inaad heleysaan waxaad doorataanba?",
+      "footnotes": ""
+    },
+    {
+      "id": 5310,
+      "surah": 68,
+      "ayah": 39,
+      "arabic_text": "أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+      "translation": "Mise waxaad naga heysataan ballan Xaggayaga ah lagu adkeeyey dhaar gaaraysa ilaa Maalinta Qiyaamaha inaad heleysaan waxaad doontaanba?",
+      "footnotes": ""
+    },
+    {
+      "id": 5311,
+      "surah": 68,
+      "ayah": 40,
+      "arabic_text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "translation": "Weydii kooda uga ah arrinkaas damiin.",
+      "footnotes": ""
+    },
+    {
+      "id": 5312,
+      "surah": 68,
+      "ayah": 41,
+      "arabic_text": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ",
+      "translation": "Mise waxay leeyihiin shariigyo (ilaahyo u soo gargaaraya), marka ha keenaan shariigyadooda hadday run sheegayaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5313,
+      "surah": 68,
+      "ayah": 42,
+      "arabic_text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+      "translation": "Maalinta (Qiyaamada) marka dhudhunka la feydo 'dhudhunka Alle' [1] oo loogu yeedho inay sujuudaan, mase karayaan inay sujuudaan (waa gaalada iyo munaafiqiinta).",
+      "footnotes": "[1] Dhudhunka la feydo waxaa sidoo kale lagu fasiray ay jirto shiddada iyo dhibaatada weyn, waa Maalinta Qiyaamaha."
+    },
+    {
+      "id": 5314,
+      "surah": 68,
+      "ayah": 43,
+      "arabic_text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
+      "translation": "Indhahoodu hoos u rogan yihiin, dulli baa dabooli; waxaana loogu yeedhi jirey inay sujuudaan iyagoo fayow 'mase yeelin'.",
+      "footnotes": ""
+    },
+    {
+      "id": 5315,
+      "surah": 68,
+      "ayah": 44,
+      "arabic_text": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+      "translation": "Ee isu kaana daa Aniga iyo kuwa beeniya warkan (Qur’aanka); waxaan ka qaban si heerar ah meel aysan fileyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 5316,
+      "surah": 68,
+      "ayah": 45,
+      "arabic_text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+      "translation": "Waan u seeto dheereyn, hubaal, tabteydu waa mid sugan oo adag.",
+      "footnotes": ""
+    },
+    {
+      "id": 5317,
+      "surah": 68,
+      "ayah": 46,
+      "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "translation": "Mise waxaad weydiisataa ujro, sidaa awgeed bay la culaabeysan yihiin deyn?",
+      "footnotes": ""
+    },
+    {
+      "id": 5318,
+      "surah": 68,
+      "ayah": 47,
+      "arabic_text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "translation": "Mise cilmiga waxaan muuqan bay hayaan, sidaas darteed iyagu qoraan?",
+      "footnotes": ""
+    },
+    {
+      "id": 5319,
+      "surah": 68,
+      "ayah": 48,
+      "arabic_text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
+      "translation": "Ee ku samir Xukunka Rabbigaa, oo ha noqonnin sida (Nabi Yuunus) rafiiqii nibiriga - markuu noo yeedhay isagoo walbahaarsan,",
+      "footnotes": ""
+    },
+    {
+      "id": 5320,
+      "surah": 68,
+      "ayah": 49,
+      "arabic_text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
+      "translation": "Haddaysan Nicmad xagga Rabbigi ah haleesheen, waxaa lagu tuuri lahaa cidla’ bannaan isagoo eedeysan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5321,
+      "surah": 68,
+      "ayah": 50,
+      "arabic_text": "فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ",
+      "translation": "Rabbigiis baase doortay, kana mid yeelay kuwa wanaagsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5322,
+      "surah": 68,
+      "ayah": 51,
+      "arabic_text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
+      "translation": "Kuwaa gaalada ahise waxay sigaan inay kugu gubaan indhahooda (dhabatoda) naceyb gala awgiis markay maqlaan Waanada (Qur’aankan); waxayna yidhaahdaan: Kani waa jinnoole.",
+      "footnotes": ""
+    },
+    {
+      "id": 5323,
+      "surah": 68,
+      "ayah": 52,
+      "arabic_text": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+      "translation": "Ma se ah (Qur’aanka) wax kale aan aheyn Waano ku socota ummadahoo dhan.",
+      "footnotes": ""
+    }
+  ]
+}

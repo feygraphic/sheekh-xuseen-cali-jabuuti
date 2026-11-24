@@ -1,0 +1,38 @@
+{
+  "surah_number": 106,
+  "ayahs_count": 4,
+  "ayahs": [
+    {
+      "id": 6194,
+      "surah": 106,
+      "ayah": 1,
+      "arabic_text": "لِإِيلَٰفِ قُرَيۡشٍ",
+      "translation": "Caadeysigii Quraysh darteed.",
+      "footnotes": ""
+    },
+    {
+      "id": 6195,
+      "surah": 106,
+      "ayah": 2,
+      "arabic_text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "translation": "Ay ka caada yeesheen safarka xagaaga iyo jilaalka (si nabdoonaan ah ganacsiga).",
+      "footnotes": ""
+    },
+    {
+      "id": 6196,
+      "surah": 106,
+      "ayah": 3,
+      "arabic_text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+      "translation": "Ee ha caabudeen Rabbiga Baytkan (Kacbada Makkah ku taal).",
+      "footnotes": ""
+    },
+    {
+      "id": 6197,
+      "surah": 106,
+      "ayah": 4,
+      "arabic_text": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+      "translation": "Kaasoo ka quudiyey gaajo, kana aamin yeelay cabsi.",
+      "footnotes": ""
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "surah_number": 77,
+  "ayahs_count": 50,
+  "ayahs": [
+    {
+      "id": 5623,
+      "surah": 77,
+      "ayah": 1,
+      "arabic_text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا",
+      "translation": "Waxaan ku dhaartay dabeylaha wanaagga lala soo diro.",
+      "footnotes": ""
+    },
+    {
+      "id": 5624,
+      "surah": 77,
+      "ayah": 2,
+      "arabic_text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+      "translation": "Iyo dabeylaha sida daran u kaca.",
+      "footnotes": ""
+    },
+    {
+      "id": 5625,
+      "surah": 77,
+      "ayah": 3,
+      "arabic_text": "وَٱلنَّٰشِرَٰتِ نَشۡرٗا",
+      "translation": "Iyo dabeylaha u kaxeeya daruuraha meelahooda loogu tala galay;",
+      "footnotes": ""
+    },
+    {
+      "id": 5626,
+      "surah": 77,
+      "ayah": 4,
+      "arabic_text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+      "translation": "Iyo (malaa'igta) kala saara (Xaqa iyo baadilka) kala saarid dhan [1].",
+      "footnotes": "[1] Xalaasha iyo xaaraanta."
+    },
+    {
+      "id": 5627,
+      "surah": 77,
+      "ayah": 5,
+      "arabic_text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+      "translation": "Iyo malaa’igta keena Waxyiga",
+      "footnotes": ""
+    },
+    {
+      "id": 5628,
+      "surah": 77,
+      "ayah": 6,
+      "arabic_text": "عُذۡرًا أَوۡ نُذۡرًا",
+      "translation": "Si loo caddeeyo (Xaqa) ama loo digo;",
+      "footnotes": ""
+    },
+    {
+      "id": 5629,
+      "surah": 77,
+      "ayah": 7,
+      "arabic_text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+      "translation": "Ee waxa (dadow) la idiinku yabooho ( Qiyaamada) waa Xaq dhacaya.",
+      "footnotes": ""
+    },
+    {
+      "id": 5630,
+      "surah": 77,
+      "ayah": 8,
+      "arabic_text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+      "translation": "Marka xiddiguhu beelaan nuurkooda;",
+      "footnotes": ""
+    },
+    {
+      "id": 5631,
+      "surah": 77,
+      "ayah": 9,
+      "arabic_text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+      "translation": "Oo samadu dildillaacdo,",
+      "footnotes": ""
+    },
+    {
+      "id": 5632,
+      "surah": 77,
+      "ayah": 10,
+      "arabic_text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+      "translation": "Oo buuraha la rujiyo.",
+      "footnotes": ""
+    },
+    {
+      "id": 5633,
+      "surah": 77,
+      "ayah": 11,
+      "arabic_text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+      "translation": "Oo Rusulladii la kulmiyo (iyo dadkoodii) waqtigii loo qabtay.",
+      "footnotes": ""
+    },
+    {
+      "id": 5634,
+      "surah": 77,
+      "ayah": 12,
+      "arabic_text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+      "translation": "Maalintee baa loo dib dhigay?",
+      "footnotes": ""
+    },
+    {
+      "id": 5635,
+      "surah": 77,
+      "ayah": 13,
+      "arabic_text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+      "translation": "Maalinta kala baxa (Qiyaamada).",
+      "footnotes": ""
+    },
+    {
+      "id": 5636,
+      "surah": 77,
+      "ayah": 14,
+      "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+      "translation": "Maxaa ku ogeysiiyey waxay Maalinta kala baxu tahay?",
+      "footnotes": ""
+    },
+    {
+      "id": 5637,
+      "surah": 77,
+      "ayah": 15,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5638,
+      "surah": 77,
+      "ayah": 16,
+      "arabic_text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+      "translation": "Miyaanaan halaagin facyadii hore (ee gaaloobay)?",
+      "footnotes": ""
+    },
+    {
+      "id": 5639,
+      "surah": 77,
+      "ayah": 17,
+      "arabic_text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+      "translation": "Misna waxaan raacin kuwa (facyada) dambe (ee eynigood ah).",
+      "footnotes": ""
+    },
+    {
+      "id": 5640,
+      "surah": 77,
+      "ayah": 18,
+      "arabic_text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+      "translation": "Sidaasaan u galnaa denbiilayaasha.",
+      "footnotes": ""
+    },
+    {
+      "id": 5641,
+      "surah": 77,
+      "ayah": 19,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5642,
+      "surah": 77,
+      "ayah": 20,
+      "arabic_text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+      "translation": "Miyaanaan idinka abuurin biyo daciif ah liita?",
+      "footnotes": ""
+    },
+    {
+      "id": 5643,
+      "surah": 77,
+      "ayah": 21,
+      "arabic_text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+      "translation": "Markaas yeelnay meel aamin ah gudaheed (riximka),",
+      "footnotes": ""
+    },
+    {
+      "id": 5644,
+      "surah": 77,
+      "ayah": 22,
+      "arabic_text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "translation": "Ilaa muddo la yaqaanno,",
+      "footnotes": ""
+    },
+    {
+      "id": 5645,
+      "surah": 77,
+      "ayah": 23,
+      "arabic_text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+      "translation": "Sidaasaan wax u qaddarnay, Annagaana u fiican kuwo wax qaddara.",
+      "footnotes": ""
+    },
+    {
+      "id": 5646,
+      "surah": 77,
+      "ayah": 24,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5647,
+      "surah": 77,
+      "ayah": 25,
+      "arabic_text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+      "translation": "Miyaanaan ka dhigin dhulka mid qaada oo ku filan?",
+      "footnotes": ""
+    },
+    {
+      "id": 5648,
+      "surah": 77,
+      "ayah": 26,
+      "arabic_text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+      "translation": "Kuwa nool iyo kuwa mowtanba [1].",
+      "footnotes": "[1] Alle wuxuu ku kulmiyey dadka nool arlada dusheeda, mowtidana arlada hoosteeda."
+    },
+    {
+      "id": 5649,
+      "surah": 77,
+      "ayah": 27,
+      "arabic_text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+      "translation": "Oo ka yeelin dhulka dhexdiisa buuro sugan oo dhaadheer oo aan idinka waraabinin biyo macaan?",
+      "footnotes": ""
+    },
+    {
+      "id": 5650,
+      "surah": 77,
+      "ayah": 28,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5651,
+      "surah": 77,
+      "ayah": 29,
+      "arabic_text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation": "Aada waxaad beenin jirteen.",
+      "footnotes": ""
+    },
+    {
+      "id": 5652,
+      "surah": 77,
+      "ayah": 30,
+      "arabic_text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+      "translation": "Aada hoos (qiiqa Naarta ah) oo seddex laamood leh [1].",
+      "footnotes": "[1] Xagga seddex jiho: Midigta, bidixda, iyo dusha sare, macnaha waa cadaabka wuxuu uga iman oo ka hareereyn gaalada jiho kasta."
+    },
+    {
+      "id": 5653,
+      "surah": 77,
+      "ayah": 31,
+      "arabic_text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+      "translation": "Oo aan harsi laheyn, waxnana ka tareyn ololka dabka.",
+      "footnotes": ""
+    },
+    {
+      "id": 5654,
+      "surah": 77,
+      "ayah": 32,
+      "arabic_text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+      "translation": "Waxay (Naartu) tuuri dhimbilo daran oo daaro oo kale ah .",
+      "footnotes": ""
+    },
+    {
+      "id": 5655,
+      "surah": 77,
+      "ayah": 33,
+      "arabic_text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ",
+      "translation": "Aad mooddo awr aydin ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 5656,
+      "surah": 77,
+      "ayah": 34,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5657,
+      "surah": 77,
+      "ayah": 35,
+      "arabic_text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "translation": "Kanu waa Maalin aysan (gaaladu) hadleyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 5658,
+      "surah": 77,
+      "ayah": 36,
+      "arabic_text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "translation": "Oo aan idan la siineyn si ay u cudurdaartaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 5659,
+      "surah": 77,
+      "ayah": 37,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5660,
+      "surah": 77,
+      "ayah": 38,
+      "arabic_text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+      "translation": "Kani waa Maalinka kala Baxa. Waa idin soo kulminnay idinka iyo kuwii horreeyey.",
+      "footnotes": ""
+    },
+    {
+      "id": 5661,
+      "surah": 77,
+      "ayah": 39,
+      "arabic_text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+      "translation": "Ee haddaad wax dhagri kartaan, Aniga I dhagra.",
+      "footnotes": ""
+    },
+    {
+      "id": 5662,
+      "surah": 77,
+      "ayah": 40,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5663,
+      "surah": 77,
+      "ayah": 41,
+      "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+      "translation": "Hubaal kuwa ka dhowrsada xumaha waxay ku sugnaan hoosas iyo ilo.",
+      "footnotes": ""
+    },
+    {
+      "id": 5664,
+      "surah": 77,
+      "ayah": 42,
+      "arabic_text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "translation": "Iyo midho waxay doonaan ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 5665,
+      "surah": 77,
+      "ayah": 43,
+      "arabic_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "translation": "Cuna oo cabba si raaxo leh waa waxaad camalsan fali jirteen darteed.",
+      "footnotes": ""
+    },
+    {
+      "id": 5666,
+      "surah": 77,
+      "ayah": 44,
+      "arabic_text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "translation": "Sidaasaan xaqiiq u abaal marinnaa sama falayaasha.",
+      "footnotes": ""
+    },
+    {
+      "id": 5667,
+      "surah": 77,
+      "ayah": 45,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5668,
+      "surah": 77,
+      "ayah": 46,
+      "arabic_text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+      "translation": "(Gaaloy) cuna oo raaxeysta in yar. waxaad tihiin denbiilayaal.",
+      "footnotes": ""
+    },
+    {
+      "id": 5669,
+      "surah": 77,
+      "ayah": 47,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5670,
+      "surah": 77,
+      "ayah": 48,
+      "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+      "translation": "Marka lagu yidhaahdo: Rukuuca ma ay rukuucaan [1].",
+      "footnotes": "[1] Marka lagu yidhaahdo u hoggaansama Amarka Alle uma hoggaansamaan, sidoo kale waxaa lagu fasiray marka lagu yidhaahdo tukada ma ay tukadaan."
+    },
+    {
+      "id": 5671,
+      "surah": 77,
+      "ayah": 49,
+      "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Hoog Maalintaas waxaa leh xaq beeniyayaasha (nabad diidka).",
+      "footnotes": ""
+    },
+    {
+      "id": 5672,
+      "surah": 77,
+      "ayah": 50,
+      "arabic_text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+      "translation": "Ee Hadalkee bay kan (Qur’aanka) kaddib (gaaladu) rumeynayaan?",
+      "footnotes": ""
+    }
+  ]
+}

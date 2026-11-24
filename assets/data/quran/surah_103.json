@@ -1,0 +1,30 @@
+{
+  "surah_number": 103,
+  "ayahs_count": 3,
+  "ayahs": [
+    {
+      "id": 6177,
+      "surah": 103,
+      "ayah": 1,
+      "arabic_text": "وَٱلۡعَصۡرِ",
+      "translation": "Waxaan ku dhaartay waqtiga.",
+      "footnotes": ""
+    },
+    {
+      "id": 6178,
+      "surah": 103,
+      "ayah": 2,
+      "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "translation": "Hubaal Aadmigu wuxuu ku sugan yahay khasaaro dhan.",
+      "footnotes": ""
+    },
+    {
+      "id": 6179,
+      "surah": 103,
+      "ayah": 3,
+      "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "translation": "Kuwa (Xaqa) rumeeyey mooyee oo samaha fala, ee isu dardaraama Xaqa (iyo caddaalad falka), isuna dardaarama sabarka (iyo sugnaanta).",
+      "footnotes": ""
+    }
+  ]
+}

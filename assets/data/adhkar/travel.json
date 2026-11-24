@@ -1,0 +1,63 @@
+[
+  {
+    "id": "travel_1",
+    "categoryId": "travel",
+    "category": "Adkaarta Safarka",
+    "title": "Ducada Gaadiidka (Fuulista Gaadhiga/Diyaaradda)",
+    "arabicTitle": "دعاء ركوب الدابة أو وسيلة السفر",
+    "arabicText": "بِسْمِ اللَّهِ، الْحَمْدُ لِلَّهِ، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ ۝ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾، الْحَمْدُ لِلَّهِ، الْحَمْدُ لِلَّهِ، الْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، سُبْحَانَكَ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "somaliTranslation": "Magaca Eebbe, Mahad Eebbe ayaa leh. Waxaa hufan Eebbihii noo sakhiray kan (gaadiidka) annagoo awoodin inaan iska maquuninno, xagga Rabbigeennana ayaan u soo laabanaynaa. Mahad Eebbe (3 jeer), Eebbaa weyn (3 jeer). Waxaa hufan Eebbe anigu naftayda ayaan dulmiyaye ii dambi dhaaf, dambiyada cidina ma dhaafto adiga mooyaane.",
+    "transliteration": "Bismillaah, Alhamdulillaah, Subhaanal-ladhee sakh-khara lanaa haadhaa wa maa kunnaa lahoo muqrineen...",
+    "reference": "Abuu Daawuud (2602), At-Tirmadi (3446)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  },
+  {
+    "id": "travel_2",
+    "categoryId": "travel",
+    "category": "Adkaarta Safarka",
+    "title": "Ducada Safarka ee Dhameystiran",
+    "arabicTitle": "دعاء السفر",
+    "arabicText": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ ۝ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+    "somaliTranslation": "Eebbaa Weyn (3 jeer)... Ilaahow waxaan ku weydiisanaynaa safarkan wanaag iyo dhowrsanaanta Eebbe, iyo camal aad raalli ka tahay. Ilaahow noo fududee safarkan noona soo dhowee fogaantiisa. Ilaahow adigaa Saaxiibka nagu wehliya safarka ah, ugana wakiil ah ehelkayaga. Ilaahow waxaan kaa magangalayaa dhibaatada safarka, muuqaalka murugada leh, iyo soo noqoshada xun ee xagga maalka iyo ehelka.",
+    "transliteration": "Allaahu Akbar (3), Subhaanal-ladhee sakh-khara lanaa haadhaa... Allaahumma innaa nas'aluka fee safarinaa haadhal-birra wat-taqwaa...",
+    "reference": "Saxiix Muslim (1342)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true,
+    "virtue": "Ducada badbaadada qoyska, gaadiidka, iyo ilaalinta maalka muddada safarka lagu jiro."
+  },
+  {
+    "id": "travel_3",
+    "categoryId": "travel",
+    "category": "Adkaarta Safarka",
+    "title": "Ducada Soo Laabashada Safarka",
+    "arabicTitle": "دعاء الرجوع من السفر",
+    "arabicText": "آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+    "somaliTranslation": "Waan soo laabannay, annagoo toobad keenayna, caabudayna Rabbigeen, kuna mahadinayna.",
+    "transliteration": "Aayiboona, taa'iboona, 'aabidoona, li-Rabbinaa haamidoon",
+    "reference": "Saxiixul Bukhaari (1797), Saxiix Muslim (1342)",
+    "authenticity": "Saxiix",
+    "targetCount": 3,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  },
+  {
+    "id": "travel_4",
+    "categoryId": "travel",
+    "category": "Adkaarta Safarka",
+    "title": "Dardaaranka Qofka Safarka ah Loo Jeediyo",
+    "arabicTitle": "دعاء المقيم للمسافر",
+    "arabicText": "أَسْتَوْدِعُ اللَّهَ دِينَكَ، وَأَمَانَتَكَ، وَخَوَاتِيمَ عَمَلِكَ",
+    "somaliTranslation": "Waxaan Eebbe ku aaminayaa diintaada, ammaanooyinkaaga, iyo dhammaadka camalkaaga.",
+    "transliteration": "Astawdi'ullaaha deenaka, wa amaanataka, wa khawaateema 'amalik",
+    "reference": "At-Tirmadi (3443), Axmad (2/7)",
+    "authenticity": "Saxiix",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true
+  }
+]

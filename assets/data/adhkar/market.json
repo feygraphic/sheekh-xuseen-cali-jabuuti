@@ -1,0 +1,34 @@
+[
+  {
+    "id": "market_1",
+    "categoryId": "market",
+    "category": "Ducada Suuqa",
+    "title": "Ducada Gelidda Suuqa (Hal Milyan oo Xasanaad)",
+    "arabicTitle": "دعاء دخول السوق",
+    "arabicText": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "somaliTranslation": "Ilaah kale ma jiro oo xaq lagu caabudo Eebbe mooyaane, waana kaligiis oo shariik ma laha. Isagaa iska leh boqortooyada iyo mahadda, Isagaa nooleeya oo dila, waana Noolaha aan waligii dhimanayn, khayrka oo dhanna gacantiisa ayuu ku jiraa, Isaguna wax kasta wuu awoodaa.",
+    "transliteration": "Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, yuhyee wa yumeetu, wa Huwa hayyun laa yamootu, biyadihil-khayru, wa Huwa 'alaa kulli shay'in qadeer",
+    "reference": "Jaami' At-Tirmadi (3428), Ibn Maajah (2235), Al-Xaakim (1/538)",
+    "authenticity": "Xasan (Saxiixul Jaami' 6231)",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true,
+    "virtue": "Rasuulku (scw) wuxuu yiri: Qofkii suuqa gala isagoo ku dhawaaqa ducadan, Eebbe wuxuu u qoraa hal milyan oo xasano (1,000,000), wuxuuna ka tirtiraa hal milyan oo dambi, waxaana looga dhisaa guri Jannada dhexdeeda ah."
+  },
+  {
+    "id": "market_2",
+    "categoryId": "market",
+    "category": "Ducada Suuqa",
+    "title": "Ducada Iibka iyo Ganacsiga Xalaasha ah",
+    "arabicTitle": "دعاء التجارة والبركة في البيع والشراء",
+    "arabicText": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذِهِ السُّوقِ وَخَيْرَ مَا فِيهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا فِيهَا، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُصِيبَ فِيهَا يَمِينًا فَاجِرَةً أَوْ صَفْقَةً خَاسِرَةً",
+    "somaliTranslation": "Ilaahow waxaan ku weydiisanayaa khayrka suuqan iyo khayrka dhexyaal, waxaana kaa magangalayaa sharkiisa iyo sharka dhexyaal. Ilaahow waxaan kaa magangalayaa inaan suuqan dhexdiisa ku galo dhaar been ah ama iib khasaare leh.",
+    "transliteration": "Allaahumma innee as'aluka khayra haadhis-sooqi wa khayra maa feehaa...",
+    "reference": "Al-Xaakim (1/539), Al-Dacawaat Al-Kabiir",
+    "authenticity": "Xasan",
+    "targetCount": 1,
+    "audioUrl": "assets/audio/sample_dhikr.mp3",
+    "isLocalAudio": true,
+    "virtue": "Ilaalinta daacadnimada ganacsiga, barakada macaashka iyo ka fogaanshaha dhaarta beenta ah."
+  }
+]

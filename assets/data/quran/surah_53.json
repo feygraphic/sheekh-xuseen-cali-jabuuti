@@ -1,0 +1,502 @@
+{
+  "surah_number": 53,
+  "ayahs_count": 62,
+  "ayahs": [
+    {
+      "id": 4785,
+      "surah": 53,
+      "ayah": 1,
+      "arabic_text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+      "translation": "Waxaan ku dhaartay xiddigaha markay dhacaan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4786,
+      "surah": 53,
+      "ayah": 2,
+      "arabic_text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+      "translation": "Saaxibkiin (Nabi Muxammad s.c.w.) ma ka habaabin (Jidka Toosan iyo hanuunka), (Xaqana) kama uusan lumin.",
+      "footnotes": ""
+    },
+    {
+      "id": 4787,
+      "surah": 53,
+      "ayah": 3,
+      "arabic_text": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+      "translation": "Ma ku hadlo hawadiisa.",
+      "footnotes": ""
+    },
+    {
+      "id": 4788,
+      "surah": 53,
+      "ayah": 4,
+      "arabic_text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+      "translation": "Wax kale maahee (hadalkiisu) waa waxyi loo waxyooday.",
+      "footnotes": ""
+    },
+    {
+      "id": 4789,
+      "surah": 53,
+      "ayah": 5,
+      "arabic_text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "translation": "Waxaa baray (oo xagga Alle ka soo gaarsiiyey) mid xoog weyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 4790,
+      "surah": 53,
+      "ayah": 6,
+      "arabic_text": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "translation": "Ee muuqaal san, abuuraddiisuna dhan tahay 'waa Jabriil c.s.' [1].",
+      "footnotes": "[1] Jabriil wuxuu ugu muuqday Nabi Muxammad s.c.w. muuqaalkiisa dhabta ah."
+    },
+    {
+      "id": 4791,
+      "surah": 53,
+      "ayah": 7,
+      "arabic_text": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "translation": "Isagoo ku sugan halka ugu sarreysa jihada sare [1].",
+      "footnotes": "[1] Cirka, halka ka korreysa jihada bari ee qorrax soo baxa."
+    },
+    {
+      "id": 4792,
+      "surah": 53,
+      "ayah": 8,
+      "arabic_text": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "translation": "Markaasuu (Jabriil) soo dhowaaday oo in yar u soo jirsaday.",
+      "footnotes": ""
+    },
+    {
+      "id": 4793,
+      "surah": 53,
+      "ayah": 9,
+      "arabic_text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+      "translation": "In le’eg labo qaanso xadhigeed ama ka dhow.",
+      "footnotes": ""
+    },
+    {
+      "id": 4794,
+      "surah": 53,
+      "ayah": 10,
+      "arabic_text": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+      "translation": "Markaasuu (Alle) u Waxyooday addoonkiisa (Nabi Muxammad s.c.w.) wuxuu u waxyooday [1].",
+      "footnotes": "[1] Waa Qur'aanka."
+    },
+    {
+      "id": 4795,
+      "surah": 53,
+      "ayah": 11,
+      "arabic_text": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+      "translation": "Kama been sheegin Qalbiga wuxuu arkay [1].",
+      "footnotes": "[1] Nabigu s.c.w habeenkii micraajka ee Calaamooyinka waaweyn ah ee Rabbi."
+    },
+    {
+      "id": 4796,
+      "surah": 53,
+      "ayah": 12,
+      "arabic_text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "translation": "Ma waxaad kala murmi wuxuu arkay (habeenkii Israha iyo Micraajka).",
+      "footnotes": ""
+    },
+    {
+      "id": 4797,
+      "surah": 53,
+      "ayah": 13,
+      "arabic_text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+      "translation": "Wuxuuna dhab ahaan ku arkay (Jabriil) soo degid kale.",
+      "footnotes": ""
+    },
+    {
+      "id": 4798,
+      "surah": 53,
+      "ayah": 14,
+      "arabic_text": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "translation": "Dhammaadka xadka geedka gobka [1].",
+      "footnotes": "[1] Sidratal muntahaa, waa halka u sarreysa samada toddobaad."
+    },
+    {
+      "id": 4799,
+      "surah": 53,
+      "ayah": 15,
+      "arabic_text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+      "translation": "Waxaa agteeda ah Jannada hoyashada.",
+      "footnotes": ""
+    },
+    {
+      "id": 4800,
+      "surah": 53,
+      "ayah": 16,
+      "arabic_text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+      "translation": "Markuu daboolay gobka waxa daboolay (oo qurux ah).",
+      "footnotes": ""
+    },
+    {
+      "id": 4801,
+      "surah": 53,
+      "ayah": 17,
+      "arabic_text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+      "translation": "Aragga (Nabiga s.c .w) uma iilan dhinacna, mana dhaafin xadkii loo dhigay.",
+      "footnotes": ""
+    },
+    {
+      "id": 4802,
+      "surah": 53,
+      "ayah": 18,
+      "arabic_text": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+      "translation": "Wuxuu xaqiiq wax ka arkay Calaamooyinka Rabbigi ee waaweyn.",
+      "footnotes": ""
+    },
+    {
+      "id": 4803,
+      "surah": 53,
+      "ayah": 19,
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
+      "translation": "Ee (gaaloy) ka warrama (sanamyada) Al-Laat iyo Al-Cuzza.",
+      "footnotes": ""
+    },
+    {
+      "id": 4804,
+      "surah": 53,
+      "ayah": 20,
+      "arabic_text": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+      "translation": "Iyo Manaat, tan seddexaad ee kale [1]?",
+      "footnotes": "[1] Seddexdan magac ee lagu xusay halkan iyo Aayadda ka horreysa waa ilaahyo caan ahaa oo dheddig ah ay caabudi jireen mushrikiintii Carbeed."
+    },
+    {
+      "id": 4805,
+      "surah": 53,
+      "ayah": 21,
+      "arabic_text": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+      "translation": "idinku ma waxaad leedihiin labka Isaguna dheddigga?",
+      "footnotes": ""
+    },
+    {
+      "id": 4806,
+      "surah": 53,
+      "ayah": 22,
+      "arabic_text": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+      "translation": "Tanu waa qayb dulun ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4807,
+      "surah": 53,
+      "ayah": 23,
+      "arabic_text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+      "translation": "Ma aha wax kale aan aheyn magacyo aad bixiseen - idinka iyo aabbayaashiin - oo uusan Alle u soo dejin wax Xujo ah. Ma raacaan waxba aan ahayn male iyo waxa xun ay naftoodu u iilato, waxaana uga yimid xagga Rabbigood hanuun wacan (Islaamka).",
+      "footnotes": ""
+    },
+    {
+      "id": 4808,
+      "surah": 53,
+      "ayah": 24,
+      "arabic_text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+      "translation": "Mise Aadmigu wuxuu leeyahay wuxuu jecleystoba?",
+      "footnotes": ""
+    },
+    {
+      "id": 4809,
+      "surah": 53,
+      "ayah": 25,
+      "arabic_text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+      "translation": "Mayee, Alle baa iska leh tan dambe 'Aakhirada' iyo 'nolosha' horeba 'Adduunka'.",
+      "footnotes": ""
+    },
+    {
+      "id": 4810,
+      "surah": 53,
+      "ayah": 26,
+      "arabic_text": "۞ وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+      "translation": "Badanaa inta malag jooga samooyinka, aysan shafeecadoodu waxba taraynin in Alle u idmo maahee cidduu doono oo ka Raalli yahay.",
+      "footnotes": ""
+    },
+    {
+      "id": 4811,
+      "surah": 53,
+      "ayah": 27,
+      "arabic_text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+      "translation": "Hubaal kuwaa (gaalada mushrikiinta ah) aan rumeysnayn Aakhirada, waxay ku magacaabaan malaa’igta magacyo dheddig ah.",
+      "footnotes": ""
+    },
+    {
+      "id": 4812,
+      "surah": 53,
+      "ayah": 28,
+      "arabic_text": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+      "translation": "Iyagoo aan wax aqoon ah u laheyn. Waxay raacaan oo keliya malo, maluhuna waxba kama taro Xaqa.",
+      "footnotes": ""
+    },
+    {
+      "id": 4813,
+      "surah": 53,
+      "ayah": 29,
+      "arabic_text": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "translation": "Ee iskaga jeeso kan ka tegay Xuskayga (Qur’aanka) oo aan doonayn waxaan aheyn nolosha adduunka.",
+      "footnotes": ""
+    },
+    {
+      "id": 4814,
+      "surah": 53,
+      "ayah": 30,
+      "arabic_text": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+      "translation": "Kaasi waa intuu gaaray garaadkooda aqooneed. Rabbigaa waa Ogsoon yahay kan ka luma Jidkiisa, waana Ogsoon yahay kan hanuunsan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4815,
+      "surah": 53,
+      "ayah": 31,
+      "arabic_text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+      "translation": "Allaah baa iska leh waxaa ku sugan samooyinka iyo waxa ku sugan arlada, si uu uga abaal marsho kuwa fala xumaanta waxay falaan, iyo (inuu) ugu abaal gudo kuwa fala samaanta samaan (Janno).",
+      "footnotes": ""
+    },
+    {
+      "id": 4816,
+      "surah": 53,
+      "ayah": 32,
+      "arabic_text": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "translation": "Kuwa ka fogaada denbiyada waaweyn iyo xumaha, waxa yar yar ee ku soo dhaca maanankooda mooyaane - Rabbigaa waa mid leh denbi dhaaf ballaadhan. Wuuna idin og yahay, markuu idinka abuuray dhulka iyo markaadba ku asturan tihiin uurarka hooyooyinkiin, ee ha is ammaanina, Isagaa (Alle) Og kan ka dhowrsada xumaha.",
+      "footnotes": ""
+    },
+    {
+      "id": 4817,
+      "surah": 53,
+      "ayah": 33,
+      "arabic_text": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+      "translation": "Ee ma aragtay kan ka jeesaday (Islaamka).",
+      "footnotes": ""
+    },
+    {
+      "id": 4818,
+      "surah": 53,
+      "ayah": 34,
+      "arabic_text": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+      "translation": "Oo wax yar bixiyey [1], inta kalena ceshaday.",
+      "footnotes": "[1] Waxaa ka dhaadhacsan in maalkiisa uu ku yaraan hadduu wax siiyo saboolka, halka Alle subxaanahu wa tacaalaa uu ballan qaaday si ka duwan."
+    },
+    {
+      "id": 4819,
+      "surah": 53,
+      "ayah": 35,
+      "arabic_text": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+      "translation": "Ma wuxuu hayaa cilmiga waxaan muuqan, oo arkaa?",
+      "footnotes": ""
+    },
+    {
+      "id": 4820,
+      "surah": 53,
+      "ayah": 36,
+      "arabic_text": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+      "translation": "Mise waan loo sheegin wixii ku yiil waraaqahii Muuse -",
+      "footnotes": ""
+    },
+    {
+      "id": 4821,
+      "surah": 53,
+      "ayah": 37,
+      "arabic_text": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+      "translation": "Iyo Ibraahiim ee oofiyey 'amarradii Alle'.",
+      "footnotes": ""
+    },
+    {
+      "id": 4822,
+      "surah": 53,
+      "ayah": 38,
+      "arabic_text": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+      "translation": "Inaan nafna naf kale denbigeeda qaadeyn (inuu gacan ka geysto maahee).",
+      "footnotes": ""
+    },
+    {
+      "id": 4823,
+      "surah": 53,
+      "ayah": 39,
+      "arabic_text": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+      "translation": "Iyo inuusan aadmigu mudanin waxaan aheyn wuxuu shaqeysto (khayr ama shar).",
+      "footnotes": ""
+    },
+    {
+      "id": 4824,
+      "surah": 53,
+      "ayah": 40,
+      "arabic_text": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+      "translation": "Camalkiisana la arki doono.",
+      "footnotes": ""
+    },
+    {
+      "id": 4825,
+      "surah": 53,
+      "ayah": 41,
+      "arabic_text": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+      "translation": "Kaddibna looga abaal marin si buuxda.",
+      "footnotes": ""
+    },
+    {
+      "id": 4826,
+      "surah": 53,
+      "ayah": 42,
+      "arabic_text": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+      "translation": "Iyo in xagga Rabbigaa uu yahay meel noqodka dambe.",
+      "footnotes": ""
+    },
+    {
+      "id": 4827,
+      "surah": 53,
+      "ayah": 43,
+      "arabic_text": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+      "translation": "Waana Kan wax ka qosliya kana oohiya.",
+      "footnotes": ""
+    },
+    {
+      "id": 4828,
+      "surah": 53,
+      "ayah": 44,
+      "arabic_text": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+      "translation": "Isagaana wax dhinsiiya waxna nooleeya.",
+      "footnotes": ""
+    },
+    {
+      "id": 4829,
+      "surah": 53,
+      "ayah": 45,
+      "arabic_text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+      "translation": "Isagaa (Alle) abuuray labada nooc, labka iyo dheddigga.",
+      "footnotes": ""
+    },
+    {
+      "id": 4830,
+      "surah": 53,
+      "ayah": 46,
+      "arabic_text": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+      "translation": "Ka abuuray dhibic mino ah marka la shubo.",
+      "footnotes": ""
+    },
+    {
+      "id": 4831,
+      "surah": 53,
+      "ayah": 47,
+      "arabic_text": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+      "translation": "Isagayna saaran tahay soo celinta kale (abuurista Aakhirada).",
+      "footnotes": ""
+    },
+    {
+      "id": 4832,
+      "surah": 53,
+      "ayah": 48,
+      "arabic_text": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+      "translation": "Waa Isaga Kan wax hodmiya waxna faqiiriya;",
+      "footnotes": ""
+    },
+    {
+      "id": 4833,
+      "surah": 53,
+      "ayah": 49,
+      "arabic_text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+      "translation": "Waana Rabbiga xiddiga Shicra [1].",
+      "footnotes": "[1] Waa xiddig ay caabudi jireen qaar ka mid ah mushrikiintii Carbeed."
+    },
+    {
+      "id": 4834,
+      "surah": 53,
+      "ayah": 50,
+      "arabic_text": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+      "translation": "Alle Isagaa halaagay Caadkii hore,",
+      "footnotes": ""
+    },
+    {
+      "id": 4835,
+      "surah": 53,
+      "ayah": 51,
+      "arabic_text": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+      "translation": "Iyo Thamuudba, waxnana kama reebin.",
+      "footnotes": ""
+    },
+    {
+      "id": 4836,
+      "surah": 53,
+      "ayah": 52,
+      "arabic_text": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+      "translation": "Iyo qolodii Nuux awal hore; waxay ahaayeen kuwo dulmi iyo xadgudub badan.",
+      "footnotes": ""
+    },
+    {
+      "id": 4837,
+      "surah": 53,
+      "ayah": 53,
+      "arabic_text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+      "translation": "Iyo magaalooyinkii (Sodom iyo Gammurah) ee la rogay [1].",
+      "footnotes": "[1] Dadka degaankaasoo ka hor yimid Nabi Luud."
+    },
+    {
+      "id": 4838,
+      "surah": 53,
+      "ayah": 54,
+      "arabic_text": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "translation": "Markaasaa Waxaa daboolay wixii daboolay (oo cadaab ah).",
+      "footnotes": ""
+    },
+    {
+      "id": 4839,
+      "surah": 53,
+      "ayah": 55,
+      "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "translation": "Ee tee baad Nicmooyinka Rabbigaa ka doodeysaa oo ka shaki qabtaa?",
+      "footnotes": ""
+    },
+    {
+      "id": 4840,
+      "surah": 53,
+      "ayah": 56,
+      "arabic_text": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+      "translation": "Kanu (Nabi Muxammad) waa dige ka mid ah digayaashii hore.",
+      "footnotes": ""
+    },
+    {
+      "id": 4841,
+      "surah": 53,
+      "ayah": 57,
+      "arabic_text": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+      "translation": "Way soo dhowaatay Saacaddii (Qiyaame).",
+      "footnotes": ""
+    },
+    {
+      "id": 4842,
+      "surah": 53,
+      "ayah": 58,
+      "arabic_text": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "translation": "Ma jiro Alle ka sokow cid feydi kartaa (dhibaha iyo shiddooyinkeeda ama og waqtigeeda).",
+      "footnotes": ""
+    },
+    {
+      "id": 4843,
+      "surah": 53,
+      "ayah": 59,
+      "arabic_text": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+      "translation": "Ma waxaad la yaabban tihiin warkani weyn (Qur’aanka Kariimka)?.",
+      "footnotes": ""
+    },
+    {
+      "id": 4844,
+      "surah": 53,
+      "ayah": 60,
+      "arabic_text": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+      "translation": "Oo aad qoslaysaan (idinkoo beenin) oo aydaan ooyeynin (cabsi Alle darteed)?",
+      "footnotes": ""
+    },
+    {
+      "id": 4845,
+      "surah": 53,
+      "ayah": 61,
+      "arabic_text": "وَأَنتُمۡ سَٰمِدُونَ",
+      "translation": "Idinkoo iska haasaawaya.",
+      "footnotes": ""
+    },
+    {
+      "id": 4846,
+      "surah": 53,
+      "ayah": 62,
+      "arabic_text": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+      "translation": "Ee u sujuuda Alle oo caabuda (Isagoo Keliya idinkoon waxba u shariik yeelin).",
+      "footnotes": ""
+    }
+  ]
+}

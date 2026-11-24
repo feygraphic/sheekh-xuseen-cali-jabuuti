@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "name": "QuranEnc.com",
+      "description": "Free translation of the meanings of the Noble Quran into Somali",
+      "translator": "Mahmud Muhammad Abduh (Yacob)",
+      "identifier": "somali_yacob",
+      "website": "https://quranenc.com",
+      "api": "https://quranenc.com/api/v1/translation/sura/somali_yacob/{sura_number}",
+      "license": "Free for non-commercial and educational distribution for the dissemination of Islamic knowledge."
+    },
+    {
+      "name": "Tanzil Project",
+      "description": "Verified Uthmani Quranic Arabic Script with precise vocalization and diacritics",
+      "website": "https://tanzil.net",
+      "license": "Creative Commons Attribution 3.0 Unported License"
+    }
+  ],
+  "total_surahs": 114,
+  "total_ayahs": 6236,
+  "download_date": "2026-11-06T09:01:41.283Z"
+}
